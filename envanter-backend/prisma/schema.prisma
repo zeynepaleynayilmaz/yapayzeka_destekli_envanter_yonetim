@@ -1,0 +1,92 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["nativeDistinct"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model AnaKategori {
+  id           Int           @id @default(autoincrement())
+  kategori_adi String
+  AltKategori  AltKategori[]
+}
+
+model AltKategori {
+  id            Int         @id @default(autoincrement())
+  kategori_adi  String
+  anaKategori   AnaKategori @relation(fields: [anaKategoriId], references: [id])
+  anaKategoriId Int
+  Urun          Urun[]
+}
+
+model Urun {
+  id                  Int       @id @default(autoincrement())
+  urun_turu          String
+  normal_fiyat       Float
+  indirimli_fiyat    Float
+  stok_adedi         Int
+  stok_giris_tarihi  DateTime
+  stok_cikis_tarihi  DateTime?
+  indirim_satis_adedi Int
+  normal_satis_adedi  Int
+  urun_modeli        String
+  altKategoriId      Int
+  altKategori        AltKategori @relation(fields: [altKategoriId], references: [id])
+  Fiyat              Fiyat[]
+  Satis              Satis[]
+  Stok               Stok[]
+  islemler           IslemLog[]
+}
+
+model Fiyat {
+  id              Int   @id @default(autoincrement())
+  urun            Urun  @relation(fields: [urunId], references: [id], onDelete: Cascade)
+  urunId          Int
+  normal_fiyat    Float
+  indirimli_fiyat Float
+}
+
+enum OdemeYontemi {
+  KrediKarti
+  Havale
+  KapidaOdeme
+  Nakit
+}
+
+model Satis {
+  id                  Int          @id @default(autoincrement())
+  urun                Urun         @relation(fields: [urunId], references: [id], onDelete: Cascade)
+  urunId              Int
+  odeme               OdemeYontemi
+  satistarihi         DateTime
+  adet                Int
+  indirim_satis_adedi Int
+  normal_satis_adedi  Int
+}
+
+model Stok {
+  id                Int       @id @default(autoincrement())
+  urun              Urun      @relation(fields: [urunId], references: [id], onDelete: Cascade)
+  urunId            Int
+  stok_adedi        Int
+  stok_giris_tarihi DateTime?
+  stok_cikis_tarihi DateTime?
+}
+
+model IslemLog {
+  id        Int      @id @default(autoincrement())
+  islemTipi String   // Örn: "Stok Girişi", "Stok Analizi", "Fiyat Analizi"
+  aciklama  String   // Detaylı açıklama
+  urunId    Int?     // İlgili ürün (opsiyonel)
+  urun      Urun?    @relation(fields: [urunId], references: [id])
+  tarih     DateTime @default(now())
+}

@@ -1,0 +1,152 @@
+.dashboard {
+  padding: 24px;
+  background-color: #f5f5f5;
+  min-height: 100vh;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.stat-card {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.stat-card h3 {
+  margin: 0;
+  color: #666;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.stat-value {
+  margin-top: 12px;
+  display: flex;
+  align-items: baseline;
+  gap: 4px;
+}
+
+.currency {
+  font-size: 20px;
+  color: #333;
+}
+
+.number {
+  font-size: 24px;
+  font-weight: 600;
+  color: #333;
+}
+
+.percentage {
+  font-size: 14px;
+  margin-left: 8px;
+}
+
+.percentage.positive {
+  color: #3f8600;
+}
+
+.percentage.negative {
+  color: #cf1322;
+}
+
+.charts-container {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 16px;
+}
+
+.revenue-chart, .growth-card {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.revenue-chart h3, .growth-card h3 {
+  margin: 0 0 20px 0;
+  color: #333;
+}
+
+.bar-chart {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  height: 300px;
+  padding: 20px 0;
+}
+
+.bar-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  width: 60px;
+}
+
+.bar {
+  width: 24px;
+  transition: height 0.3s ease;
+}
+
+.bar.income {
+  background-color: #3f8600;
+  border-radius: 4px 4px 0 0;
+}
+
+.bar.expense {
+  background-color: #cf1322;
+  border-radius: 0 0 4px 4px;
+}
+
+.month-label {
+  font-size: 12px;
+  color: #666;
+}
+
+.growth-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.progress-circle {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: conic-gradient(#1890ff 78%, #f0f0f0 0);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.progress-circle-inner {
+  width: 160px;
+  height: 160px;
+  background: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.progress-percentage {
+  font-size: 32px;
+  font-weight: 600;
+  color: #333;
+}
+
+.growth-subtitle {
+  margin: 0;
+  color: #333;
+  font-size: 18px;
+  font-weight: 500;
+} 

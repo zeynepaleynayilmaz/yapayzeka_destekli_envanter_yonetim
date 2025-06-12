@@ -1,0 +1,615 @@
+urun_id,urun_turu,urun_modeli,ana_kategori,alt_kategori,normal_fiyat,indirimli_fiyat,stok_adedi,indirim_satis_adedi,normal_satis_adedi,stok_giris_tarihi,stok_cikis_tarihi,odeme_yontemi,ana_kategori_id,alt_kategori_id
+1,Mont,Mont Modeli 5,Giyim,Dış Giyim,309,224,55,16,2,2024-03-27,2024-03-28,Kredi Kartı,1,1
+2,Spor Ayakkabı,Spor Ayakkabı Modeli 3,Giyim,Ayakkabı,398,303,89,38,25,2024-03-08,2024-03-17,Kredi Kartı,1,2
+3,Topuklu Ayakkabı,Topuklu Ayakkabı Modeli 3,Giyim,Ayakkabı,141,115,96,59,17,2024-03-29,2024-03-31,Nakit,1,2
+4,Günlük Ayakkabı,Günlük Ayakkabı Modeli 6,Giyim,Ayakkabı,61,25,37,14,6,2024-03-17,2024-03-21,Nakit,1,2
+5,Bot,Bot Modeli 9,Giyim,Ayakkabı,296,199,36,11,2,2024-03-15,2024-03-27,Kredi Kartı,1,2
+6,Çizme,Çizme Modeli 1,Giyim,Ayakkabı,96,25,73,55,4,2024-03-11,2024-03-25,Kredi Kartı,1,2
+7,Terlik,Terlik Modeli 1,Giyim,Ayakkabı,193,179,98,18,56,2024-03-18,2024-03-19,Kredi Kartı,1,2
+8,Çocuk Montu,Çocuk Montu Modeli 9,Giyim,Çocuk Giyim,389,345,91,15,37,2024-03-07,2024-03-20,Nakit,1,3
+9,Tişört,Tişört Modeli 10,Giyim,Üst Giyim,322,267,87,25,10,2024-03-13,2024-03-26,Kredi Kartı,1,4
+10,Gömlek,Gömlek Modeli 7,Giyim,Üst Giyim,160,100,79,41,6,2024-03-11,2024-03-25,Nakit,1,4
+11,Etek,Etek Modeli 2,Giyim,Alt Giyim,100,25,42,25,11,2024-03-21,2024-03-24,Nakit,1,5
+12,Kazak,Kazak Modeli 8,Giyim,Üst Giyim,305,221,80,58,7,2024-03-10,2024-03-28,Kredi Kartı,1,4
+13,Trençkot,Trençkot Modeli 2,Giyim,Dış Giyim,412,370,15,4,4,2024-03-26,2024-03-27,Kredi Kartı,1,1
+14,Hırka,Hırka Modeli 2,Giyim,Üst Giyim,229,214,92,16,14,2024-03-10,2024-03-24,Nakit,1,4
+15,Kol Çantası,Kol Çantası Modeli 6,Giyim,Aksesuar,274,230,90,45,35,2024-03-12,2024-03-25,Kredi Kartı,1,6
+16,Saat,Saat Modeli 10,Giyim,Aksesuar,401,354,61,9,5,2024-03-13,2024-03-31,Nakit,1,6
+17,Cüzdan,Cüzdan Modeli 3,Giyim,Aksesuar,487,442,93,14,13,2024-03-01,2024-03-11,Kredi Kartı,1,6
+18,Kolye,Kolye Modeli 6,Giyim,Aksesuar,118,50,45,40,2,2024-03-21,2024-03-25,Nakit,1,6
+19,Yüzük,Yüzük Modeli 10,Giyim,Aksesuar,352,314,21,12,2,2024-03-12,2024-03-14,Nakit,1,6
+20,Bileklik,Bileklik Modeli 9,Giyim,Aksesuar,81,46,64,60,1,2024-03-15,2024-03-30,Nakit,1,6
+21,Küpe,Küpe Modeli 8,Giyim,Aksesuar,419,367,83,79,0,2024-03-17,2024-03-21,Nakit,1,6
+22,Atkı,Atkı Modeli 4,Giyim,Aksesuar,164,115,69,35,0,2024-03-28,2024-03-30,Kredi Kartı,1,6
+23,Bere,Bere Modeli 7,Giyim,Aksesuar,144,112,12,2,6,2024-03-06,2024-03-28,Nakit,1,6
+24,Eldiven,Eldiven Modeli 7,Giyim,Aksesuar,167,68,96,14,10,2024-03-17,2024-03-27,Kredi Kartı,1,6
+25,Kemer,Kemer Modeli 5,Giyim,Aksesuar,481,462,78,33,7,2024-03-17,2024-03-23,Kredi Kartı,1,6
+26,Güneş Gözlüğü,Güneş Gözlüğü Modeli 9,Giyim,Aksesuar,314,278,45,32,11,2024-03-20,2024-03-24,Kredi Kartı,1,6
+27,Maskara,Maskara Modeli 4,Kozmetik,Makyaj,264,243,22,11,9,2024-03-12,2024-03-18,Kredi Kartı,2,7
+28,Ruj,Ruj Modeli 2,Kozmetik,Makyaj,96,83,27,26,1,2024-03-02,2024-03-03,Kredi Kartı,2,7
+29,Allık,Allık Modeli 7,Kozmetik,Makyaj,301,287,26,17,6,2024-03-09,2024-03-22,Nakit,2,7
+30,Fondöten,Fondöten Modeli 6,Kozmetik,Makyaj,228,172,46,9,20,2024-03-05,2024-03-17,Nakit,2,7
+31,Oje,Oje Modeli 3,Kozmetik,Makyaj,150,65,45,11,34,2024-03-08,2024-03-11,Nakit,2,7
+32,Göz Kalemi,Göz Kalemi Modeli 9,Kozmetik,Makyaj,357,334,36,4,25,2024-03-05,2024-03-15,Nakit,2,7
+33,Şampuan,Şampuan Modeli 9,Kozmetik,Kişisel Bakım,84,25,23,18,3,2024-03-23,2024-03-27,Nakit,2,8
+34,Saç Kremi,Saç Kremi Modeli 8,Kozmetik,Kişisel Bakım,265,190,14,12,1,2024-03-11,2024-03-14,Kredi Kartı,2,8
+35,Diş Fırçası,Diş Fırçası Modeli 5,Kozmetik,Kişisel Bakım,434,360,53,24,24,2024-03-10,2024-03-17,Nakit,2,8
+36,Diş Macunu,Diş Macunu Modeli 10,Kozmetik,Kişisel Bakım,326,242,61,51,8,2024-03-06,2024-03-26,Kredi Kartı,2,8
+37,Diş İpi,Diş İpi Modeli 3,Kozmetik,Kişisel Bakım,162,148,70,22,37,2024-03-24,2024-03-25,Kredi Kartı,2,8
+38,Deodorant,Deodorant Modeli 3,Kozmetik,Kişisel Bakım,165,152,46,45,0,2024-03-26,2024-03-28,Kredi Kartı,2,8
+39,Parfüm,Parfüm Modeli 7,Kozmetik,Kişisel Bakım,216,149,57,8,41,2024-03-05,2024-03-22,Kredi Kartı,2,8
+40,Nemlendirici Krem,Nemlendirici Krem Modeli 10,Kozmetik,Kişisel Bakım,298,227,36,30,0,2024-03-12,2024-03-20,Nakit,2,8
+41,Duş Jeli,Duş Jeli Modeli 2,Kozmetik,Kişisel Bakım,153,130,40,25,2,2024-03-03,2024-03-17,Kredi Kartı,2,8
+42,Kese,Kese Modeli 10,Kozmetik,Kişisel Bakım,431,352,52,5,22,2024-03-24,2024-03-28,Nakit,2,8
+43,Güneş Kremi,Güneş Kremi Modeli 2,Kozmetik,Kişisel Bakım,409,388,50,37,3,2024-03-09,2024-03-19,Nakit,2,8
+44,Tarak,Tarak Modeli 5,Kozmetik,Kişisel Bakım,322,227,76,65,0,2024-03-26,2024-03-30,Nakit,2,8
+45,Süpürge,Süpürge Modeli 6,Elektronik,Küçük Ev Aletleri,162,119,61,56,5,2024-03-14,2024-03-27,Nakit,3,9
+46,Robot Süpürge,Robot Süpürge Modeli 10,Elektronik,Küçük Ev Aletleri,438,371,67,7,23,2024-03-24,2024-03-31,Nakit,3,9
+47,Ütü,Ütü Modeli 6,Elektronik,Küçük Ev Aletleri,198,130,10,7,3,2024-03-24,2024-03-27,Nakit,3,9
+48,Kahve Makinesi,Kahve Makinesi Modeli 10,Elektronik,Küçük Ev Aletleri,157,119,36,15,15,2024-03-12,2024-03-18,Nakit,3,9
+49,Çay Makinesi,Çay Makinesi Modeli 9,Elektronik,Küçük Ev Aletleri,498,433,29,27,1,2024-03-09,2024-03-16,Nakit,3,9
+50,Blender,Blender Modeli 1,Elektronik,Küçük Ev Aletleri,462,372,90,43,19,2024-03-05,2024-03-27,Kredi Kartı,3,9
+51,Tost Makinesi,Tost Makinesi Modeli 7,Elektronik,Küçük Ev Aletleri,138,103,76,71,5,2024-03-29,2024-03-30,Nakit,3,9
+52,Su Isıtıcı,Su Isıtıcı Modeli 1,Elektronik,Küçük Ev Aletleri,108,68,60,58,0,2024-03-28,2024-03-31,Nakit,3,9
+53,Mikser,Mikser Modeli 5,Elektronik,Küçük Ev Aletleri,414,404,95,48,20,2024-03-24,2024-03-30,Nakit,3,9
+54,Airfryer,Airfryer Modeli 2,Elektronik,Küçük Ev Aletleri,467,388,55,23,4,2024-03-27,2024-03-31,Nakit,3,9
+55,Akıllı Saat,Akıllı Saat Modeli 10,Elektronik,Giyilebilir Teknoloji,147,48,83,4,49,2024-03-11,2024-03-15,Nakit,3,10
+56,Akıllı Bileklik,Akıllı Bileklik Modeli 8,Elektronik,Giyilebilir Teknoloji,204,115,29,25,1,2024-03-04,2024-03-09,Kredi Kartı,3,10
+57,Android Cep Telefon,Android Cep Telefon Modeli 6,Elektronik,Telefon,176,101,12,12,0,2024-03-11,2024-03-13,Kredi Kartı,3,11
+58,iOS Cep Telefon,iOS Cep Telefon Modeli 1,Elektronik,Telefon,236,196,63,4,39,2024-03-14,2024-03-28,Nakit,3,11
+59,Buzdolabı,Buzdolabı Modeli 4,Elektronik,Beyaz Eşya,86,29,81,65,15,2024-03-06,2024-03-11,Nakit,3,12
+60,Çamaşır Makinesi,Çamaşır Makinesi Modeli 6,Elektronik,Beyaz Eşya,58,25,23,13,6,2024-03-23,2024-03-25,Kredi Kartı,3,12
+61,Bulaşık Makinesi,Bulaşık Makinesi Modeli 7,Elektronik,Beyaz Eşya,349,278,11,10,0,2024-03-04,2024-03-25,Kredi Kartı,3,12
+62,Kurutma Makinesi,Kurutma Makinesi Modeli 3,Elektronik,Beyaz Eşya,58,25,10,1,4,2024-03-02,2024-03-16,Nakit,3,12
+63,Derin Dondurucu,Derin Dondurucu Modeli 3,Elektronik,Beyaz Eşya,285,224,16,0,16,2024-03-06,2024-03-22,Kredi Kartı,3,12
+64,Ankastre Set,Ankastre Set Modeli 8,Elektronik,Beyaz Eşya,130,35,40,28,2,2024-03-14,2024-03-22,Nakit,3,12
+65,Kombi,Kombi Modeli 5,Elektronik,Beyaz Eşya,492,466,57,45,9,2024-03-24,2024-03-25,Kredi Kartı,3,12
+66,Mikrodalga Fırın,Mikrodalga Fırın Modeli 6,Elektronik,Beyaz Eşya,228,136,33,1,7,2024-03-18,2024-03-30,Nakit,3,12
+67,Smart TV,Smart TV Modeli 6,Elektronik,Televizyon,435,408,34,20,4,2024-03-19,2024-03-27,Kredi Kartı,3,13
+68,Fotoğraf Makinesi,Fotoğraf Makinesi Modeli 10,Elektronik,Kamera,185,97,96,85,2,2024-03-30,2024-03-31,Kredi Kartı,3,14
+69,Aksiyon Kamera,Aksiyon Kamera Modeli 4,Elektronik,Kamera,432,392,85,8,43,2024-03-04,2024-03-10,Kredi Kartı,3,14
+70,Şipşak Fotoğraf Makinesi ,Şipşak Fotoğraf Makinesi  Modeli 6,Elektronik,Kamera,113,65,29,17,12,2024-03-14,2024-03-30,Kredi Kartı,3,14
+71,Telefon Kılıfı,Telefon Kılıfı Modeli 3,Elektronik,Aksesuarlar,125,113,65,64,1,2024-03-30,2024-03-31,Kredi Kartı,3,15
+72,Şarj Aleti,Şarj Aleti Modeli 3,Elektronik,Aksesuarlar,412,338,19,18,0,2024-03-17,2024-03-29,Nakit,3,15
+73,Powerbank,Powerbank Modeli 1,Elektronik,Aksesuarlar,331,290,36,11,13,2024-03-06,2024-03-11,Nakit,3,15
+74,Kulaklık,Kulaklık Modeli 3,Elektronik,Aksesuarlar,264,252,88,76,3,2024-03-02,2024-03-17,Nakit,3,15
+75,Hoparlör,Hoparlör Modeli 9,Elektronik,Aksesuarlar,232,162,11,7,0,2024-03-12,2024-03-14,Nakit,3,15
+76,Projeksiyon Cihazı,Projeksiyon Cihazı Modeli 10,Elektronik,Aksesuarlar,78,50,60,39,0,2024-03-18,2024-03-20,Kredi Kartı,3,15
+77,Tv Kumandası,Tv Kumandası Modeli 10,Elektronik,Aksesuarlar,112,63,95,67,18,2024-03-15,2024-03-18,Nakit,3,15
+78,HDMI Kablo,HDMI Kablo Modeli 4,Elektronik,Aksesuarlar,456,435,18,18,0,2024-03-07,2024-03-23,Kredi Kartı,3,15
+79,Kablo & Adaptör,Kablo & Adaptör Modeli 7,Elektronik,Aksesuarlar,72,38,78,68,0,2024-03-10,2024-03-12,Nakit,3,15
+80,Tencere,Tencere Modeli 3,Ev,Sofra & Mutfak,123,32,91,55,10,2024-03-21,2024-03-23,Nakit,4,16
+81,Yemek Takımı,Yemek Takımı Modeli 2,Ev,Sofra & Mutfak,170,78,26,6,4,2024-03-13,2024-03-23,Kredi Kartı,4,16
+82,Kahvaltı Takımı,Kahvaltı Takımı Modeli 2,Ev,Sofra & Mutfak,181,93,10,9,1,2024-03-05,2024-03-16,Kredi Kartı,4,16
+83,Çatal Bıçak Seti,Çatal Bıçak Seti Modeli 6,Ev,Sofra & Mutfak,127,46,38,27,11,2024-03-21,2024-03-30,Kredi Kartı,4,16
+84,Fincan Takımı,Fincan Takımı Modeli 10,Ev,Sofra & Mutfak,124,104,57,18,28,2024-03-14,2024-03-26,Kredi Kartı,4,16
+85,Bardak,Bardak Modeli 7,Ev,Sofra & Mutfak,241,182,44,42,1,2024-03-06,2024-03-08,Kredi Kartı,4,16
+86,Hurç,Hurç Modeli 7,Ev,Ev Gereçleri,243,145,36,21,2,2024-03-19,2024-03-25,Nakit,4,17
+87,Askı,Askı Modeli 6,Ev,Ev Gereçleri,307,220,61,16,31,2024-03-12,2024-03-14,Kredi Kartı,4,17
+88,Çamaşır Sepeti,Çamaşır Sepeti Modeli 10,Ev,Ev Gereçleri,195,95,23,5,18,2024-03-20,2024-03-29,Kredi Kartı,4,17
+89,Nevresim Takımı,Nevresim Takımı Modeli 10,Ev,Ev Tekstili,161,149,45,28,9,2024-03-23,2024-03-30,Nakit,4,18
+90,Yastık & Yorgan,Yastık & Yorgan Modeli 7,Ev,Ev Tekstili,57,25,54,24,10,2024-03-04,2024-03-16,Nakit,4,18
+91,Koltuk  Örtüsü,Koltuk  Örtüsü Modeli 8,Ev,Ev Tekstili,212,126,63,19,1,2024-03-26,2024-03-30,Nakit,4,18
+92,Perde,Perde Modeli 8,Ev,Ev Tekstili,56,25,70,9,21,2024-03-17,2024-03-24,Nakit,4,18
+93,Paspas,Paspas Modeli 3,Ev,Ev Tekstili,445,353,80,74,3,2024-03-11,2024-03-13,Nakit,4,18
+94,Halı,Halı Modeli 9,Ev,Ev Tekstili,82,45,37,22,1,2024-03-06,2024-03-31,Nakit,4,18
+95,Ayna,Ayna Modeli 9,Ev,Ev Dekorasyon,342,281,44,2,31,2024-03-29,2024-03-30,Nakit,4,19
+96,Tablo,Tablo Modeli 5,Ev,Ev Dekorasyon,445,417,11,1,4,2024-03-16,2024-03-18,Nakit,4,19
+97,Vazo,Vazo Modeli 5,Ev,Ev Dekorasyon,147,68,36,1,3,2024-03-02,2024-03-21,Kredi Kartı,4,19
+98,Duvar Saati,Duvar Saati Modeli 1,Ev,Ev Dekorasyon,465,374,73,38,3,2024-03-19,2024-03-31,Nakit,4,19
+99,Avize,Avize Modeli 10,Ev,Ev Aydınlatma,359,277,82,28,17,2024-03-03,2024-03-20,Kredi Kartı,4,20
+100,Lambader,Lambader Modeli 3,Ev,Ev Dekorasyon,61,50,98,97,1,2024-03-28,2024-03-31,Kredi Kartı,4,19
+101,Yatak Odası Takımı,Yatak Odası Takımı Modeli 2,Ev,Mobilya,160,113,99,93,4,2024-03-08,2024-03-26,Kredi Kartı,4,21
+102,Oturma Odası Takımı,Oturma Odası Takımı Modeli 6,Ev,Mobilya,392,312,19,7,9,2024-03-02,2024-03-26,Kredi Kartı,4,21
+103,Bahçe Mobilyası,Bahçe Mobilyası Modeli 2,Ev,Mobilya,460,414,63,58,3,2024-03-03,2024-03-21,Kredi Kartı,4,21
+104,Yemek Odası Takımı,Yemek Odası Takımı Modeli 7,Ev,Mobilya,135,95,60,24,34,2024-03-05,2024-03-10,Nakit,4,21
+105,Çocuk Odası Takımı,Çocuk Odası Takımı Modeli 2,Ev,Mobilya,438,341,14,8,2,2024-03-29,2024-03-30,Kredi Kartı,4,21
+106,Genç Odası Takımı,Genç Odası Takımı Modeli 3,Ev,Mobilya,263,177,28,3,21,2024-03-18,2024-03-24,Kredi Kartı,4,21
+107,Koltuk Takımı,Koltuk Takımı Modeli 9,Ev,Mobilya,493,399,65,46,8,2024-03-28,2024-03-31,Nakit,4,21
+108,Dolap,Dolap Modeli 2,Ev,Mobilya,409,360,61,44,2,2024-03-03,2024-03-11,Nakit,4,21
+109,Gardırop,Gardırop Modeli 3,Ev,Mobilya,147,65,63,8,32,2024-03-08,2024-03-12,Kredi Kartı,4,21
+110,Sandalye,Sandalye Modeli 6,Ev,Mobilya,145,131,50,34,16,2024-03-20,2024-03-27,Nakit,4,21
+111,Zigon,Zigon Modeli 7,Ev,Mobilya,242,156,49,15,28,2024-03-01,2024-03-10,Kredi Kartı,4,21
+112,Mont,Mont Modeli 10,Giyim,Dış Giyim,63,25,89,27,58,2024-03-08,2024-03-09,Kredi Kartı,1,1
+113,Spor Ayakkabı,Spor Ayakkabı Modeli 8,Giyim,Ayakkabı,304,218,16,8,4,2024-03-12,2024-03-19,Nakit,1,2
+114,Topuklu Ayakkabı,Topuklu Ayakkabı Modeli 4,Giyim,Ayakkabı,93,82,64,34,10,2024-03-27,2024-03-28,Kredi Kartı,1,2
+115,Günlük Ayakkabı,Günlük Ayakkabı Modeli 5,Giyim,Ayakkabı,411,351,28,26,2,2024-03-18,2024-03-26,Nakit,1,2
+116,Bot,Bot Modeli 10,Giyim,Ayakkabı,181,118,53,10,6,2024-03-18,2024-03-28,Kredi Kartı,1,2
+117,Çizme,Çizme Modeli 8,Giyim,Ayakkabı,72,60,15,14,1,2024-03-18,2024-03-24,Kredi Kartı,1,2
+118,Terlik,Terlik Modeli 7,Giyim,Ayakkabı,306,214,91,56,27,2024-03-29,2024-03-31,Kredi Kartı,1,2
+119,Çocuk Montu,Çocuk Montu Modeli 6,Giyim,Çocuk Giyim,157,84,54,52,1,2024-03-08,2024-03-26,Nakit,1,3
+120,Tişört,Tişört Modeli 2,Giyim,Üst Giyim,294,273,41,6,28,2024-03-23,2024-03-31,Nakit,1,4
+121,Gömlek,Gömlek Modeli 5,Giyim,Üst Giyim,396,306,96,30,36,2024-03-19,2024-03-28,Kredi Kartı,1,4
+122,Pantalon,Pantalon Modeli 4,Giyim,Alt Giyim,94,67,40,30,8,2024-03-24,2024-03-25,Nakit,1,5
+123,Etek,Etek Modeli 5,Giyim,Alt Giyim,292,251,75,8,37,2024-03-12,2024-03-15,Kredi Kartı,1,5
+124,Kazak,Kazak Modeli 7,Giyim,Üst Giyim,331,318,75,11,21,2024-03-05,2024-03-12,Kredi Kartı,1,4
+125,Trençkot,Trençkot Modeli 9,Giyim,Dış Giyim,458,430,62,43,8,2024-03-19,2024-03-21,Nakit,1,1
+126,Hırka,Hırka Modeli 10,Giyim,Üst Giyim,176,78,90,21,65,2024-03-30,2024-03-31,Nakit,1,4
+127,Kol Çantası,Kol Çantası Modeli 7,Giyim,Aksesuar,361,298,72,20,1,2024-03-01,2024-03-30,Kredi Kartı,1,6
+128,Saat,Saat Modeli 8,Giyim,Aksesuar,88,25,80,6,24,2024-03-16,2024-03-29,Nakit,1,6
+129,Cüzdan,Cüzdan Modeli 7,Giyim,Aksesuar,317,295,34,9,7,2024-03-18,2024-03-28,Nakit,1,6
+130,Yüzük,Yüzük Modeli 5,Giyim,Aksesuar,379,365,16,8,1,2024-03-10,2024-03-25,Kredi Kartı,1,6
+131,Küpe,Küpe Modeli 4,Giyim,Aksesuar,195,169,44,41,1,2024-03-11,2024-03-24,Nakit,1,6
+132,Bere,Bere Modeli 3,Giyim,Aksesuar,278,247,75,24,14,2024-03-24,2024-03-29,Kredi Kartı,1,6
+133,Eldiven,Eldiven Modeli 7,Giyim,Aksesuar,245,207,84,6,57,2024-03-21,2024-03-29,Kredi Kartı,1,6
+134,Kemer,Kemer Modeli 2,Giyim,Aksesuar,344,328,89,73,3,2024-03-21,2024-03-31,Nakit,1,6
+135,Maskara,Maskara Modeli 8,Kozmetik,Makyaj,309,268,47,23,0,2024-03-01,2024-03-20,Kredi Kartı,2,7
+136,Ruj,Ruj Modeli 9,Kozmetik,Makyaj,93,25,42,24,9,2024-03-12,2024-03-14,Nakit,2,7
+137,Allık,Allık Modeli 9,Kozmetik,Makyaj,311,272,15,14,0,2024-03-08,2024-03-23,Kredi Kartı,2,7
+138,Fondöten,Fondöten Modeli 10,Kozmetik,Makyaj,146,80,58,48,9,2024-03-24,2024-03-28,Kredi Kartı,2,7
+139,Oje,Oje Modeli 2,Kozmetik,Makyaj,339,254,67,5,34,2024-03-11,2024-03-14,Kredi Kartı,2,7
+140,Göz Kalemi,Göz Kalemi Modeli 6,Kozmetik,Makyaj,71,46,16,2,4,2024-03-01,2024-03-24,Kredi Kartı,2,7
+141,Şampuan,Şampuan Modeli 4,Kozmetik,Kişisel Bakım,99,59,12,10,0,2024-03-28,2024-03-29,Kredi Kartı,2,8
+142,Diş Fırçası,Diş Fırçası Modeli 3,Kozmetik,Kişisel Bakım,462,362,24,18,1,2024-03-25,2024-03-31,Kredi Kartı,2,8
+143,Diş Macunu,Diş Macunu Modeli 5,Kozmetik,Kişisel Bakım,80,25,80,9,67,2024-03-09,2024-03-11,Kredi Kartı,2,8
+144,Diş İpi,Diş İpi Modeli 4,Kozmetik,Kişisel Bakım,374,336,51,19,22,2024-03-06,2024-03-07,Nakit,2,8
+145,Deodorant,Deodorant Modeli 1,Kozmetik,Kişisel Bakım,281,265,58,50,1,2024-03-15,2024-03-17,Nakit,2,8
+146,Parfüm,Parfüm Modeli 6,Kozmetik,Kişisel Bakım,389,348,14,1,12,2024-03-09,2024-03-29,Nakit,2,8
+147,Nemlendirici Krem,Nemlendirici Krem Modeli 8,Kozmetik,Kişisel Bakım,482,397,67,50,9,2024-03-25,2024-03-31,Kredi Kartı,2,8
+148,Duş Jeli,Duş Jeli Modeli 5,Kozmetik,Kişisel Bakım,369,340,53,16,20,2024-03-06,2024-03-13,Nakit,2,8
+149,Kese,Kese Modeli 7,Kozmetik,Kişisel Bakım,397,374,17,14,3,2024-03-02,2024-03-29,Nakit,2,8
+150,Güneş Kremi,Güneş Kremi Modeli 1,Kozmetik,Kişisel Bakım,274,212,54,33,2,2024-03-17,2024-03-20,Kredi Kartı,2,8
+151,Tarak,Tarak Modeli 9,Kozmetik,Kişisel Bakım,430,393,34,12,3,2024-03-09,2024-03-27,Nakit,2,8
+152,Süpürge,Süpürge Modeli 7,Elektronik,Küçük Ev Aletleri,395,322,52,46,2,2024-03-01,2024-03-22,Kredi Kartı,3,9
+153,Robot Süpürge,Robot Süpürge Modeli 6,Elektronik,Küçük Ev Aletleri,334,238,74,40,15,2024-03-22,2024-03-27,Kredi Kartı,3,9
+154,Ütü,Ütü Modeli 5,Elektronik,Küçük Ev Aletleri,167,143,94,68,6,2024-03-01,2024-03-22,Kredi Kartı,3,9
+155,Kahve Makinesi,Kahve Makinesi Modeli 6,Elektronik,Küçük Ev Aletleri,156,133,62,53,2,2024-03-30,2024-03-31,Nakit,3,9
+156,Çay Makinesi,Çay Makinesi Modeli 9,Elektronik,Küçük Ev Aletleri,371,273,21,12,2,2024-03-12,2024-03-25,Kredi Kartı,3,9
+157,Blender,Blender Modeli 4,Elektronik,Küçük Ev Aletleri,138,94,76,39,36,2024-03-27,2024-03-30,Kredi Kartı,3,9
+158,Tost Makinesi,Tost Makinesi Modeli 4,Elektronik,Küçük Ev Aletleri,99,25,56,30,19,2024-03-20,2024-03-28,Nakit,3,9
+159,Su Isıtıcı,Su Isıtıcı Modeli 8,Elektronik,Küçük Ev Aletleri,333,294,77,67,5,2024-03-27,2024-03-30,Kredi Kartı,3,9
+160,Mikser,Mikser Modeli 2,Elektronik,Küçük Ev Aletleri,118,82,70,48,9,2024-03-29,2024-03-31,Nakit,3,9
+161,Airfryer,Airfryer Modeli 7,Elektronik,Küçük Ev Aletleri,133,38,14,11,1,2024-03-16,2024-03-20,Kredi Kartı,3,9
+162,Akıllı Saat,Akıllı Saat Modeli 1,Elektronik,Giyilebilir Teknoloji,400,303,57,50,0,2024-03-25,2024-03-31,Nakit,3,10
+163,Akıllı Bileklik,Akıllı Bileklik Modeli 7,Elektronik,Giyilebilir Teknoloji,57,25,71,60,2,2024-03-20,2024-03-22,Kredi Kartı,3,10
+164,Android Cep Telefon,Android Cep Telefon Modeli 1,Elektronik,Telefon,159,145,93,37,24,2024-03-20,2024-03-26,Kredi Kartı,3,11
+165,iOS Cep Telefon,iOS Cep Telefon Modeli 2,Elektronik,Telefon,320,241,28,18,4,2024-03-06,2024-03-16,Nakit,3,11
+166,Buzdolabı,Buzdolabı Modeli 6,Elektronik,Beyaz Eşya,294,264,46,19,4,2024-03-12,2024-03-19,Nakit,3,12
+167,Bulaşık Makinesi,Bulaşık Makinesi Modeli 2,Elektronik,Beyaz Eşya,490,410,43,25,10,2024-03-29,2024-03-30,Kredi Kartı,3,12
+168,Kurutma Makinesi,Kurutma Makinesi Modeli 6,Elektronik,Beyaz Eşya,116,58,57,49,1,2024-03-05,2024-03-26,Nakit,3,12
+169,Derin Dondurucu,Derin Dondurucu Modeli 3,Elektronik,Beyaz Eşya,139,63,25,13,6,2024-03-05,2024-03-27,Nakit,3,12
+170,Ankastre Set,Ankastre Set Modeli 6,Elektronik,Beyaz Eşya,194,138,96,26,21,2024-03-27,2024-03-29,Nakit,3,12
+171,Kombi,Kombi Modeli 9,Elektronik,Beyaz Eşya,339,290,30,18,5,2024-03-11,2024-03-27,Kredi Kartı,3,12
+172,Mikrodalga Fırın,Mikrodalga Fırın Modeli 7,Elektronik,Beyaz Eşya,271,205,60,16,1,2024-03-27,2024-03-30,Nakit,3,12
+173,Smart TV,Smart TV Modeli 5,Elektronik,Televizyon,464,370,72,65,6,2024-03-06,2024-03-24,Nakit,3,13
+174,Fotoğraf Makinesi,Fotoğraf Makinesi Modeli 8,Elektronik,Kamera,175,125,86,23,18,2024-03-24,2024-03-25,Kredi Kartı,3,14
+175,Aksiyon Kamera,Aksiyon Kamera Modeli 5,Elektronik,Kamera,340,272,63,17,27,2024-03-24,2024-03-27,Nakit,3,14
+176,Şipşak Fotoğraf Makinesi ,Şipşak Fotoğraf Makinesi  Modeli 1,Elektronik,Kamera,393,367,66,35,3,2024-03-27,2024-03-28,Kredi Kartı,3,14
+177,Telefon Kılıfı,Telefon Kılıfı Modeli 3,Elektronik,Aksesuarlar,409,343,51,43,8,2024-03-27,2024-03-30,Nakit,3,15
+178,Şarj Aleti,Şarj Aleti Modeli 5,Elektronik,Aksesuarlar,248,165,76,69,5,2024-03-29,2024-03-30,Kredi Kartı,3,15
+179,Powerbank,Powerbank Modeli 7,Elektronik,Aksesuarlar,395,383,24,2,1,2024-03-23,2024-03-28,Kredi Kartı,3,15
+180,Kulaklık,Kulaklık Modeli 8,Elektronik,Aksesuarlar,450,373,93,49,33,2024-03-12,2024-03-14,Nakit,3,15
+181,Hafıza Kartı,Hafıza Kartı Modeli 10,Elektronik,Aksesuarlar,408,328,37,36,1,2024-03-28,2024-03-29,Nakit,3,15
+182,Hoparlör,Hoparlör Modeli 4,Elektronik,Aksesuarlar,153,129,74,71,3,2024-03-19,2024-03-21,Kredi Kartı,3,15
+183,Projeksiyon Cihazı,Projeksiyon Cihazı Modeli 5,Elektronik,Aksesuarlar,473,380,92,7,84,2024-03-08,2024-03-15,Kredi Kartı,3,15
+184,Tv Kumandası,Tv Kumandası Modeli 5,Elektronik,Aksesuarlar,397,357,85,82,3,2024-03-10,2024-03-29,Kredi Kartı,3,15
+185,HDMI Kablo,HDMI Kablo Modeli 4,Elektronik,Aksesuarlar,149,120,52,27,21,2024-03-12,2024-03-26,Nakit,3,15
+186,Kablo & Adaptör,Kablo & Adaptör Modeli 8,Elektronik,Aksesuarlar,424,370,45,24,11,2024-03-21,2024-03-30,Nakit,3,15
+187,Tencere,Tencere Modeli 4,Ev,Sofra & Mutfak,103,56,54,6,3,2024-03-28,2024-03-31,Nakit,4,16
+188,Yemek Takımı,Yemek Takımı Modeli 5,Ev,Sofra & Mutfak,385,326,93,11,20,2024-03-12,2024-03-19,Nakit,4,16
+189,Kahvaltı Takımı,Kahvaltı Takımı Modeli 5,Ev,Sofra & Mutfak,219,131,72,60,10,2024-03-30,2024-03-31,Kredi Kartı,4,16
+190,Çatal Bıçak Seti,Çatal Bıçak Seti Modeli 9,Ev,Sofra & Mutfak,316,245,28,4,14,2024-03-19,2024-03-31,Nakit,4,16
+191,Fincan Takımı,Fincan Takımı Modeli 9,Ev,Sofra & Mutfak,257,237,52,17,24,2024-03-03,2024-03-29,Nakit,4,16
+192,Bardak,Bardak Modeli 1,Ev,Sofra & Mutfak,267,252,56,34,10,2024-03-12,2024-03-15,Kredi Kartı,4,16
+193,Hurç,Hurç Modeli 7,Ev,Ev Gereçleri,101,82,81,36,19,2024-03-14,2024-03-28,Nakit,4,17
+194,Çamaşır Sepeti,Çamaşır Sepeti Modeli 2,Ev,Ev Gereçleri,374,318,70,40,13,2024-03-15,2024-03-26,Kredi Kartı,4,17
+195,Ütü Masası,Ütü Masası Modeli 9,Ev,Ev Gereçleri,272,197,94,82,6,2024-03-27,2024-03-28,Nakit,4,17
+196,Nevresim Takımı,Nevresim Takımı Modeli 7,Ev,Ev Tekstili,103,25,12,2,10,2024-03-25,2024-03-26,Nakit,4,18
+197,Yastık & Yorgan,Yastık & Yorgan Modeli 6,Ev,Ev Tekstili,403,390,48,14,9,2024-03-26,2024-03-27,Kredi Kartı,4,18
+198,Koltuk  Örtüsü,Koltuk  Örtüsü Modeli 2,Ev,Ev Tekstili,104,47,74,56,16,2024-03-17,2024-03-19,Kredi Kartı,4,18
+199,Perde,Perde Modeli 6,Ev,Ev Tekstili,56,25,91,22,46,2024-03-04,2024-03-30,Nakit,4,18
+200,Paspas,Paspas Modeli 7,Ev,Ev Tekstili,205,167,46,43,0,2024-03-01,2024-03-21,Nakit,4,18
+201,Halı,Halı Modeli 7,Ev,Ev Tekstili,84,32,89,78,9,2024-03-18,2024-03-24,Nakit,4,18
+202,Ayna,Ayna Modeli 2,Ev,Ev Dekorasyon,499,448,78,15,58,2024-03-18,2024-03-30,Kredi Kartı,4,19
+203,Tablo,Tablo Modeli 5,Ev,Ev Dekorasyon,406,343,29,26,1,2024-03-01,2024-03-27,Nakit,4,19
+204,Vazo,Vazo Modeli 5,Ev,Ev Dekorasyon,359,281,18,8,9,2024-03-11,2024-03-17,Kredi Kartı,4,19
+205,Duvar Saati,Duvar Saati Modeli 3,Ev,Ev Dekorasyon,369,309,76,46,1,2024-03-16,2024-03-27,Kredi Kartı,4,19
+206,Avize,Avize Modeli 2,Ev,Ev Aydınlatma,271,181,48,23,20,2024-03-13,2024-03-24,Kredi Kartı,4,20
+207,Lambader,Lambader Modeli 7,Ev,Ev Dekorasyon,316,290,31,0,20,2024-03-16,2024-03-25,Nakit,4,19
+208,Yatak Odası Takımı,Yatak Odası Takımı Modeli 9,Ev,Mobilya,420,346,29,25,2,2024-03-01,2024-03-15,Nakit,4,21
+209,Oturma Odası Takımı,Oturma Odası Takımı Modeli 1,Ev,Mobilya,370,316,52,18,7,2024-03-25,2024-03-28,Nakit,4,21
+210,Bahçe Mobilyası,Bahçe Mobilyası Modeli 2,Ev,Mobilya,124,40,39,4,5,2024-03-10,2024-03-20,Nakit,4,21
+211,Çocuk Odası Takımı,Çocuk Odası Takımı Modeli 5,Ev,Mobilya,177,141,51,27,14,2024-03-25,2024-03-27,Kredi Kartı,4,21
+212,Genç Odası Takımı,Genç Odası Takımı Modeli 7,Ev,Mobilya,271,197,64,55,1,2024-03-02,2024-03-14,Nakit,4,21
+213,Koltuk Takımı,Koltuk Takımı Modeli 8,Ev,Mobilya,432,385,63,15,47,2024-03-06,2024-03-12,Nakit,4,21
+214,Dolap,Dolap Modeli 9,Ev,Mobilya,116,91,56,42,8,2024-03-10,2024-03-29,Kredi Kartı,4,21
+215,Gardırop,Gardırop Modeli 2,Ev,Mobilya,119,52,21,17,4,2024-03-14,2024-03-30,Nakit,4,21
+216,Sandalye,Sandalye Modeli 1,Ev,Mobilya,429,368,19,11,3,2024-03-12,2024-03-14,Kredi Kartı,4,21
+217,Mont,Mont Modeli 8,Giyim,Dış Giyim,451,370,94,57,5,2024-03-14,2024-03-17,Kredi Kartı,1,1
+218,Spor Ayakkabı,Spor Ayakkabı Modeli 3,Giyim,Ayakkabı,390,366,96,57,33,2024-03-21,2024-03-23,Kredi Kartı,1,2
+219,Topuklu Ayakkabı,Topuklu Ayakkabı Modeli 6,Giyim,Ayakkabı,281,205,91,64,10,2024-03-28,2024-03-30,Kredi Kartı,1,2
+220,Günlük Ayakkabı,Günlük Ayakkabı Modeli 6,Giyim,Ayakkabı,106,37,76,55,3,2024-03-16,2024-03-19,Kredi Kartı,1,2
+221,Bot,Bot Modeli 6,Giyim,Ayakkabı,83,49,91,84,0,2024-03-08,2024-03-19,Kredi Kartı,1,2
+222,Çizme,Çizme Modeli 5,Giyim,Ayakkabı,151,134,36,10,26,2024-03-27,2024-03-30,Kredi Kartı,1,2
+223,Terlik,Terlik Modeli 7,Giyim,Ayakkabı,249,182,84,48,28,2024-03-01,2024-03-10,Kredi Kartı,1,2
+224,Çocuk Montu,Çocuk Montu Modeli 4,Giyim,Çocuk Giyim,451,360,100,98,0,2024-03-20,2024-03-23,Nakit,1,3
+225,Tişört,Tişört Modeli 9,Giyim,Üst Giyim,396,306,71,30,18,2024-03-24,2024-03-30,Nakit,1,4
+226,Gömlek,Gömlek Modeli 4,Giyim,Üst Giyim,478,443,29,23,5,2024-03-19,2024-03-24,Kredi Kartı,1,4
+227,Pantalon,Pantalon Modeli 9,Giyim,Alt Giyim,115,52,13,11,2,2024-03-05,2024-03-13,Nakit,1,5
+228,Trençkot,Trençkot Modeli 2,Giyim,Dış Giyim,386,361,88,23,1,2024-03-10,2024-03-16,Nakit,1,1
+229,Hırka,Hırka Modeli 6,Giyim,Üst Giyim,423,357,77,39,12,2024-03-21,2024-03-30,Kredi Kartı,1,4
+230,Kol Çantası,Kol Çantası Modeli 10,Giyim,Aksesuar,426,339,26,16,0,2024-03-21,2024-03-30,Kredi Kartı,1,6
+231,Saat,Saat Modeli 4,Giyim,Aksesuar,323,258,44,12,6,2024-03-15,2024-03-30,Kredi Kartı,1,6
+232,Cüzdan,Cüzdan Modeli 10,Giyim,Aksesuar,426,416,69,9,35,2024-03-11,2024-03-16,Nakit,1,6
+233,Kolye,Kolye Modeli 10,Giyim,Aksesuar,121,49,41,26,10,2024-03-16,2024-03-26,Kredi Kartı,1,6
+234,Yüzük,Yüzük Modeli 2,Giyim,Aksesuar,225,144,30,0,26,2024-03-28,2024-03-30,Nakit,1,6
+235,Bileklik,Bileklik Modeli 9,Giyim,Aksesuar,110,81,38,18,11,2024-03-16,2024-03-20,Kredi Kartı,1,6
+236,Küpe,Küpe Modeli 2,Giyim,Aksesuar,329,259,63,45,11,2024-03-15,2024-03-28,Nakit,1,6
+237,Atkı,Atkı Modeli 3,Giyim,Aksesuar,250,205,66,47,13,2024-03-27,2024-03-29,Kredi Kartı,1,6
+238,Bere,Bere Modeli 4,Giyim,Aksesuar,137,102,15,12,1,2024-03-03,2024-03-09,Nakit,1,6
+239,Eldiven,Eldiven Modeli 7,Giyim,Aksesuar,363,319,41,29,11,2024-03-05,2024-03-31,Nakit,1,6
+240,Kemer,Kemer Modeli 1,Giyim,Aksesuar,96,57,78,74,0,2024-03-22,2024-03-27,Kredi Kartı,1,6
+241,Güneş Gözlüğü,Güneş Gözlüğü Modeli 4,Giyim,Aksesuar,499,462,14,9,3,2024-03-03,2024-03-15,Kredi Kartı,1,6
+242,Maskara,Maskara Modeli 4,Kozmetik,Makyaj,187,106,83,43,6,2024-03-16,2024-03-24,Kredi Kartı,2,7
+243,Ruj,Ruj Modeli 10,Kozmetik,Makyaj,54,29,21,12,2,2024-03-28,2024-03-29,Nakit,2,7
+244,Allık,Allık Modeli 10,Kozmetik,Makyaj,312,214,89,19,59,2024-03-15,2024-03-23,Nakit,2,7
+245,Fondöten,Fondöten Modeli 1,Kozmetik,Makyaj,338,320,39,17,9,2024-03-01,2024-03-26,Nakit,2,7
+246,Oje,Oje Modeli 2,Kozmetik,Makyaj,262,244,17,13,4,2024-03-07,2024-03-10,Kredi Kartı,2,7
+247,Göz Kalemi,Göz Kalemi Modeli 5,Kozmetik,Makyaj,72,29,20,15,4,2024-03-13,2024-03-17,Nakit,2,7
+248,Şampuan,Şampuan Modeli 7,Kozmetik,Kişisel Bakım,381,367,48,30,15,2024-03-06,2024-03-26,Kredi Kartı,2,8
+249,Saç Kremi,Saç Kremi Modeli 3,Kozmetik,Kişisel Bakım,310,237,10,2,0,2024-03-08,2024-03-26,Nakit,2,8
+250,Diş Fırçası,Diş Fırçası Modeli 2,Kozmetik,Kişisel Bakım,280,217,64,23,36,2024-03-17,2024-03-27,Kredi Kartı,2,8
+251,Diş Macunu,Diş Macunu Modeli 3,Kozmetik,Kişisel Bakım,208,159,34,21,5,2024-03-12,2024-03-22,Kredi Kartı,2,8
+252,Diş İpi,Diş İpi Modeli 7,Kozmetik,Kişisel Bakım,342,320,36,2,30,2024-03-21,2024-03-27,Kredi Kartı,2,8
+253,Deodorant,Deodorant Modeli 4,Kozmetik,Kişisel Bakım,498,459,46,36,8,2024-03-13,2024-03-26,Kredi Kartı,2,8
+254,Parfüm,Parfüm Modeli 6,Kozmetik,Kişisel Bakım,328,258,51,43,4,2024-03-13,2024-03-22,Nakit,2,8
+255,Nemlendirici Krem,Nemlendirici Krem Modeli 2,Kozmetik,Kişisel Bakım,322,280,10,5,1,2024-03-27,2024-03-31,Nakit,2,8
+256,Duş Jeli,Duş Jeli Modeli 1,Kozmetik,Kişisel Bakım,294,243,39,24,4,2024-03-30,2024-03-31,Kredi Kartı,2,8
+257,Kese,Kese Modeli 6,Kozmetik,Kişisel Bakım,368,305,27,20,7,2024-03-02,2024-03-24,Kredi Kartı,2,8
+258,Güneş Kremi,Güneş Kremi Modeli 1,Kozmetik,Kişisel Bakım,133,66,75,69,1,2024-03-30,2024-03-31,Nakit,2,8
+259,Tarak,Tarak Modeli 10,Kozmetik,Kişisel Bakım,123,40,88,68,9,2024-03-04,2024-03-06,Kredi Kartı,2,8
+260,Süpürge,Süpürge Modeli 10,Elektronik,Küçük Ev Aletleri,435,412,39,1,22,2024-03-24,2024-03-30,Kredi Kartı,3,9
+261,Robot Süpürge,Robot Süpürge Modeli 1,Elektronik,Küçük Ev Aletleri,312,272,72,54,15,2024-03-02,2024-03-08,Kredi Kartı,3,9
+262,Ütü,Ütü Modeli 8,Elektronik,Küçük Ev Aletleri,278,251,17,10,6,2024-03-20,2024-03-29,Nakit,3,9
+263,Kahve Makinesi,Kahve Makinesi Modeli 7,Elektronik,Küçük Ev Aletleri,273,218,80,14,13,2024-03-04,2024-03-09,Kredi Kartı,3,9
+264,Çay Makinesi,Çay Makinesi Modeli 5,Elektronik,Küçük Ev Aletleri,96,43,37,0,18,2024-03-12,2024-03-25,Nakit,3,9
+265,Blender,Blender Modeli 9,Elektronik,Küçük Ev Aletleri,393,369,22,22,0,2024-03-17,2024-03-18,Nakit,3,9
+266,Tost Makinesi,Tost Makinesi Modeli 3,Elektronik,Küçük Ev Aletleri,55,25,87,42,29,2024-03-25,2024-03-27,Nakit,3,9
+267,Su Isıtıcı,Su Isıtıcı Modeli 5,Elektronik,Küçük Ev Aletleri,306,209,19,2,17,2024-03-03,2024-03-16,Kredi Kartı,3,9
+268,Mikser,Mikser Modeli 4,Elektronik,Küçük Ev Aletleri,145,79,92,10,41,2024-03-18,2024-03-22,Nakit,3,9
+269,Airfryer,Airfryer Modeli 9,Elektronik,Küçük Ev Aletleri,457,406,31,16,1,2024-03-06,2024-03-28,Nakit,3,9
+270,Akıllı Saat,Akıllı Saat Modeli 1,Elektronik,Giyilebilir Teknoloji,281,210,16,12,4,2024-03-12,2024-03-29,Nakit,3,10
+271,Akıllı Bileklik,Akıllı Bileklik Modeli 6,Elektronik,Giyilebilir Teknoloji,52,25,23,22,1,2024-03-25,2024-03-31,Kredi Kartı,3,10
+272,iOS Cep Telefon,iOS Cep Telefon Modeli 2,Elektronik,Telefon,62,25,26,9,5,2024-03-23,2024-03-30,Kredi Kartı,3,11
+273,Buzdolabı,Buzdolabı Modeli 1,Elektronik,Beyaz Eşya,342,328,73,16,19,2024-03-11,2024-03-29,Kredi Kartı,3,12
+274,Çamaşır Makinesi,Çamaşır Makinesi Modeli 4,Elektronik,Beyaz Eşya,313,265,96,18,44,2024-03-08,2024-03-31,Kredi Kartı,3,12
+275,Bulaşık Makinesi,Bulaşık Makinesi Modeli 2,Elektronik,Beyaz Eşya,417,359,38,20,12,2024-03-20,2024-03-28,Kredi Kartı,3,12
+276,Kurutma Makinesi,Kurutma Makinesi Modeli 4,Elektronik,Beyaz Eşya,138,48,99,8,52,2024-03-08,2024-03-27,Kredi Kartı,3,12
+277,Derin Dondurucu,Derin Dondurucu Modeli 2,Elektronik,Beyaz Eşya,418,349,40,1,15,2024-03-18,2024-03-28,Kredi Kartı,3,12
+278,Ankastre Set,Ankastre Set Modeli 1,Elektronik,Beyaz Eşya,149,62,38,7,20,2024-03-22,2024-03-25,Kredi Kartı,3,12
+279,Kombi,Kombi Modeli 7,Elektronik,Beyaz Eşya,220,173,16,2,6,2024-03-06,2024-03-10,Kredi Kartı,3,12
+280,Mikrodalga Fırın,Mikrodalga Fırın Modeli 3,Elektronik,Beyaz Eşya,343,308,23,10,1,2024-03-11,2024-03-24,Kredi Kartı,3,12
+281,Smart TV,Smart TV Modeli 3,Elektronik,Televizyon,386,330,73,23,49,2024-03-23,2024-03-26,Nakit,3,13
+282,Fotoğraf Makinesi,Fotoğraf Makinesi Modeli 10,Elektronik,Kamera,483,424,92,45,14,2024-03-08,2024-03-15,Kredi Kartı,3,14
+283,Aksiyon Kamera,Aksiyon Kamera Modeli 8,Elektronik,Kamera,137,63,27,20,1,2024-03-20,2024-03-24,Kredi Kartı,3,14
+284,Şipşak Fotoğraf Makinesi ,Şipşak Fotoğraf Makinesi  Modeli 2,Elektronik,Kamera,454,444,24,21,1,2024-03-08,2024-03-27,Kredi Kartı,3,14
+285,Şarj Aleti,Şarj Aleti Modeli 8,Elektronik,Aksesuarlar,97,25,11,3,2,2024-03-09,2024-03-20,Kredi Kartı,3,15
+286,Powerbank,Powerbank Modeli 8,Elektronik,Aksesuarlar,351,287,29,11,15,2024-03-14,2024-03-25,Kredi Kartı,3,15
+287,Kulaklık,Kulaklık Modeli 9,Elektronik,Aksesuarlar,145,74,60,28,1,2024-03-13,2024-03-27,Nakit,3,15
+288,Hafıza Kartı,Hafıza Kartı Modeli 9,Elektronik,Aksesuarlar,142,121,15,12,1,2024-03-07,2024-03-08,Nakit,3,15
+289,Hoparlör,Hoparlör Modeli 9,Elektronik,Aksesuarlar,273,236,12,9,2,2024-03-03,2024-03-10,Kredi Kartı,3,15
+290,Projeksiyon Cihazı,Projeksiyon Cihazı Modeli 3,Elektronik,Aksesuarlar,209,150,11,5,6,2024-03-23,2024-03-25,Nakit,3,15
+291,Tv Kumandası,Tv Kumandası Modeli 1,Elektronik,Aksesuarlar,93,25,70,29,12,2024-03-16,2024-03-17,Nakit,3,15
+292,HDMI Kablo,HDMI Kablo Modeli 10,Elektronik,Aksesuarlar,347,312,68,32,19,2024-03-12,2024-03-14,Nakit,3,15
+293,Kablo & Adaptör,Kablo & Adaptör Modeli 3,Elektronik,Aksesuarlar,304,242,77,47,7,2024-03-28,2024-03-29,Kredi Kartı,3,15
+294,Tencere,Tencere Modeli 2,Ev,Sofra & Mutfak,325,277,56,23,6,2024-03-05,2024-03-25,Nakit,4,16
+295,Yemek Takımı,Yemek Takımı Modeli 9,Ev,Sofra & Mutfak,349,287,55,16,12,2024-03-21,2024-03-29,Nakit,4,16
+296,Kahvaltı Takımı,Kahvaltı Takımı Modeli 10,Ev,Sofra & Mutfak,190,180,42,2,24,2024-03-06,2024-03-13,Kredi Kartı,4,16
+297,Çatal Bıçak Seti,Çatal Bıçak Seti Modeli 2,Ev,Sofra & Mutfak,282,244,23,4,15,2024-03-10,2024-03-21,Kredi Kartı,4,16
+298,Fincan Takımı,Fincan Takımı Modeli 9,Ev,Sofra & Mutfak,113,96,58,53,2,2024-03-30,2024-03-31,Nakit,4,16
+299,Bardak,Bardak Modeli 10,Ev,Sofra & Mutfak,311,235,60,56,3,2024-03-03,2024-03-20,Kredi Kartı,4,16
+300,Hurç,Hurç Modeli 10,Ev,Ev Gereçleri,443,396,26,9,9,2024-03-05,2024-03-30,Nakit,4,17
+301,Askı,Askı Modeli 4,Ev,Ev Gereçleri,126,35,69,56,13,2024-03-07,2024-03-18,Nakit,4,17
+302,Çamaşır Sepeti,Çamaşır Sepeti Modeli 7,Ev,Ev Gereçleri,385,363,68,43,18,2024-03-15,2024-03-21,Nakit,4,17
+303,Ütü Masası,Ütü Masası Modeli 4,Ev,Ev Gereçleri,421,388,24,21,1,2024-03-16,2024-03-17,Nakit,4,17
+304,Nevresim Takımı,Nevresim Takımı Modeli 1,Ev,Ev Tekstili,105,64,27,5,2,2024-03-09,2024-03-14,Nakit,4,18
+305,Yastık & Yorgan,Yastık & Yorgan Modeli 6,Ev,Ev Tekstili,212,200,68,66,2,2024-03-27,2024-03-28,Nakit,4,18
+306,Koltuk  Örtüsü,Koltuk  Örtüsü Modeli 1,Ev,Ev Tekstili,323,265,60,12,27,2024-03-16,2024-03-29,Kredi Kartı,4,18
+307,Perde,Perde Modeli 6,Ev,Ev Tekstili,307,277,59,55,4,2024-03-18,2024-03-20,Nakit,4,18
+308,Paspas,Paspas Modeli 9,Ev,Ev Tekstili,390,303,31,14,3,2024-03-30,2024-03-31,Kredi Kartı,4,18
+309,Halı,Halı Modeli 9,Ev,Ev Tekstili,321,272,92,20,32,2024-03-29,2024-03-30,Nakit,4,18
+310,Havlu & Bornoz,Havlu & Bornoz Modeli 7,Ev,Ev Tekstili,116,68,44,14,16,2024-03-02,2024-03-10,Nakit,4,18
+311,Tablo,Tablo Modeli 8,Ev,Ev Dekorasyon,410,337,84,23,26,2024-03-10,2024-03-20,Kredi Kartı,4,19
+312,Vazo,Vazo Modeli 4,Ev,Ev Dekorasyon,314,226,91,11,27,2024-03-30,2024-03-31,Kredi Kartı,4,19
+313,Duvar Saati,Duvar Saati Modeli 4,Ev,Ev Dekorasyon,255,189,52,21,16,2024-03-28,2024-03-29,Kredi Kartı,4,19
+314,Avize,Avize Modeli 3,Ev,Ev Aydınlatma,218,122,89,76,7,2024-03-13,2024-03-15,Kredi Kartı,4,20
+315,Lambader,Lambader Modeli 2,Ev,Ev Dekorasyon,94,54,91,21,48,2024-03-16,2024-03-26,Nakit,4,19
+316,Yatak Odası Takımı,Yatak Odası Takımı Modeli 7,Ev,Mobilya,345,318,34,27,5,2024-03-09,2024-03-15,Nakit,4,21
+317,Oturma Odası Takımı,Oturma Odası Takımı Modeli 2,Ev,Mobilya,448,425,28,25,1,2024-03-19,2024-03-23,Kredi Kartı,4,21
+318,Bahçe Mobilyası,Bahçe Mobilyası Modeli 8,Ev,Mobilya,445,370,98,75,1,2024-03-01,2024-03-08,Kredi Kartı,4,21
+319,Çocuk Odası Takımı,Çocuk Odası Takımı Modeli 10,Ev,Mobilya,452,425,57,53,3,2024-03-16,2024-03-26,Kredi Kartı,4,21
+320,Genç Odası Takımı,Genç Odası Takımı Modeli 4,Ev,Mobilya,177,128,59,17,6,2024-03-25,2024-03-28,Nakit,4,21
+321,Koltuk Takımı,Koltuk Takımı Modeli 2,Ev,Mobilya,70,25,20,14,2,2024-03-11,2024-03-28,Nakit,4,21
+322,Dolap,Dolap Modeli 2,Ev,Mobilya,380,346,89,28,1,2024-03-02,2024-03-26,Kredi Kartı,4,21
+323,Gardırop,Gardırop Modeli 5,Ev,Mobilya,490,434,11,6,3,2024-03-17,2024-03-24,Nakit,4,21
+324,Sandalye,Sandalye Modeli 8,Ev,Mobilya,82,40,76,61,3,2024-03-07,2024-03-18,Nakit,4,21
+325,Zigon,Zigon Modeli 9,Ev,Mobilya,122,102,60,5,20,2024-03-29,2024-03-31,Nakit,4,21
+326,Mont,Mont Modeli 7,Giyim,Dış Giyim,189,101,84,60,19,2024-03-13,2024-03-18,Nakit,1,1
+327,Spor Ayakkabı,Spor Ayakkabı Modeli 7,Giyim,Ayakkabı,443,345,82,65,2,2024-03-21,2024-03-25,Kredi Kartı,1,2
+328,Topuklu Ayakkabı,Topuklu Ayakkabı Modeli 2,Giyim,Ayakkabı,137,48,96,96,0,2024-03-19,2024-03-24,Kredi Kartı,1,2
+329,Günlük Ayakkabı,Günlük Ayakkabı Modeli 8,Giyim,Ayakkabı,281,222,16,4,6,2024-03-19,2024-03-20,Kredi Kartı,1,2
+330,Bot,Bot Modeli 7,Giyim,Ayakkabı,187,126,96,93,0,2024-03-26,2024-03-30,Nakit,1,2
+331,Çizme,Çizme Modeli 9,Giyim,Ayakkabı,100,25,97,75,1,2024-03-26,2024-03-28,Nakit,1,2
+332,Terlik,Terlik Modeli 3,Giyim,Ayakkabı,255,173,27,22,5,2024-03-02,2024-03-06,Nakit,1,2
+333,Çocuk Montu,Çocuk Montu Modeli 6,Giyim,Çocuk Giyim,217,188,42,2,17,2024-03-09,2024-03-14,Nakit,1,3
+334,Tişört,Tişört Modeli 9,Giyim,Üst Giyim,356,269,71,25,24,2024-03-04,2024-03-05,Nakit,1,4
+335,Gömlek,Gömlek Modeli 3,Giyim,Üst Giyim,192,151,66,29,2,2024-03-30,2024-03-31,Nakit,1,4
+336,Pantalon,Pantalon Modeli 5,Giyim,Alt Giyim,65,25,91,42,36,2024-03-17,2024-03-31,Nakit,1,5
+337,Etek,Etek Modeli 7,Giyim,Alt Giyim,141,82,13,10,1,2024-03-22,2024-03-25,Kredi Kartı,1,5
+338,Kazak,Kazak Modeli 4,Giyim,Üst Giyim,105,93,53,43,9,2024-03-14,2024-03-30,Kredi Kartı,1,4
+339,Trençkot,Trençkot Modeli 7,Giyim,Dış Giyim,496,426,13,5,4,2024-03-16,2024-03-19,Nakit,1,1
+340,Hırka,Hırka Modeli 1,Giyim,Üst Giyim,287,214,23,8,13,2024-03-11,2024-03-27,Nakit,1,4
+341,Kol Çantası,Kol Çantası Modeli 9,Giyim,Aksesuar,55,25,15,1,11,2024-03-27,2024-03-29,Nakit,1,6
+342,Saat,Saat Modeli 2,Giyim,Aksesuar,480,413,59,49,6,2024-03-17,2024-03-26,Kredi Kartı,1,6
+343,Cüzdan,Cüzdan Modeli 3,Giyim,Aksesuar,325,268,76,36,20,2024-03-07,2024-03-26,Nakit,1,6
+344,Kolye,Kolye Modeli 2,Giyim,Aksesuar,489,441,46,27,15,2024-03-06,2024-03-27,Nakit,1,6
+345,Yüzük,Yüzük Modeli 6,Giyim,Aksesuar,398,303,50,30,17,2024-03-27,2024-03-28,Nakit,1,6
+346,Bileklik,Bileklik Modeli 4,Giyim,Aksesuar,296,259,92,38,17,2024-03-25,2024-03-28,Nakit,1,6
+347,Küpe,Küpe Modeli 6,Giyim,Aksesuar,177,102,45,16,22,2024-03-05,2024-03-26,Kredi Kartı,1,6
+348,Atkı,Atkı Modeli 1,Giyim,Aksesuar,162,86,94,68,5,2024-03-22,2024-03-24,Nakit,1,6
+349,Bere,Bere Modeli 6,Giyim,Aksesuar,240,189,98,91,1,2024-03-02,2024-03-04,Nakit,1,6
+350,Eldiven,Eldiven Modeli 2,Giyim,Aksesuar,476,457,46,45,1,2024-03-07,2024-03-26,Kredi Kartı,1,6
+351,Kemer,Kemer Modeli 3,Giyim,Aksesuar,339,312,78,21,9,2024-03-01,2024-03-29,Kredi Kartı,1,6
+352,Güneş Gözlüğü,Güneş Gözlüğü Modeli 10,Giyim,Aksesuar,136,70,55,2,0,2024-03-07,2024-03-21,Nakit,1,6
+353,Maskara,Maskara Modeli 6,Kozmetik,Makyaj,53,37,73,10,63,2024-03-29,2024-03-31,Kredi Kartı,2,7
+354,Ruj,Ruj Modeli 9,Kozmetik,Makyaj,408,321,100,8,6,2024-03-24,2024-03-25,Nakit,2,7
+355,Allık,Allık Modeli 6,Kozmetik,Makyaj,412,347,46,34,11,2024-03-10,2024-03-23,Nakit,2,7
+356,Oje,Oje Modeli 4,Kozmetik,Makyaj,332,305,80,68,9,2024-03-11,2024-03-30,Kredi Kartı,2,7
+357,Göz Kalemi,Göz Kalemi Modeli 10,Kozmetik,Makyaj,355,315,18,8,10,2024-03-01,2024-03-21,Kredi Kartı,2,7
+358,Şampuan,Şampuan Modeli 1,Kozmetik,Kişisel Bakım,168,121,44,34,4,2024-03-20,2024-03-28,Nakit,2,8
+359,Saç Kremi,Saç Kremi Modeli 9,Kozmetik,Kişisel Bakım,330,231,81,9,45,2024-03-15,2024-03-23,Kredi Kartı,2,8
+360,Diş Fırçası,Diş Fırçası Modeli 1,Kozmetik,Kişisel Bakım,183,106,100,43,56,2024-03-23,2024-03-29,Kredi Kartı,2,8
+361,Diş Macunu,Diş Macunu Modeli 10,Kozmetik,Kişisel Bakım,114,25,70,37,33,2024-03-09,2024-03-21,Nakit,2,8
+362,Diş İpi,Diş İpi Modeli 10,Kozmetik,Kişisel Bakım,460,398,35,10,21,2024-03-28,2024-03-29,Nakit,2,8
+363,Parfüm,Parfüm Modeli 9,Kozmetik,Kişisel Bakım,465,417,57,52,4,2024-03-26,2024-03-30,Kredi Kartı,2,8
+364,Nemlendirici Krem,Nemlendirici Krem Modeli 7,Kozmetik,Kişisel Bakım,383,370,92,0,44,2024-03-10,2024-03-11,Nakit,2,8
+365,Duş Jeli,Duş Jeli Modeli 9,Kozmetik,Kişisel Bakım,234,164,90,83,5,2024-03-25,2024-03-31,Kredi Kartı,2,8
+366,Kese,Kese Modeli 6,Kozmetik,Kişisel Bakım,402,345,61,12,20,2024-03-19,2024-03-27,Nakit,2,8
+367,Güneş Kremi,Güneş Kremi Modeli 8,Kozmetik,Kişisel Bakım,308,257,89,20,55,2024-03-19,2024-03-30,Kredi Kartı,2,8
+368,Tarak,Tarak Modeli 1,Kozmetik,Kişisel Bakım,440,392,10,9,0,2024-03-11,2024-03-19,Kredi Kartı,2,8
+369,Süpürge,Süpürge Modeli 1,Elektronik,Küçük Ev Aletleri,496,401,39,19,10,2024-03-17,2024-03-30,Kredi Kartı,3,9
+370,Robot Süpürge,Robot Süpürge Modeli 5,Elektronik,Küçük Ev Aletleri,324,287,73,60,3,2024-03-22,2024-03-30,Nakit,3,9
+371,Ütü,Ütü Modeli 3,Elektronik,Küçük Ev Aletleri,215,193,76,59,0,2024-03-11,2024-03-22,Kredi Kartı,3,9
+372,Kahve Makinesi,Kahve Makinesi Modeli 9,Elektronik,Küçük Ev Aletleri,190,109,41,13,18,2024-03-05,2024-03-17,Kredi Kartı,3,9
+373,Çay Makinesi,Çay Makinesi Modeli 4,Elektronik,Küçük Ev Aletleri,171,77,61,18,27,2024-03-29,2024-03-31,Kredi Kartı,3,9
+374,Blender,Blender Modeli 8,Elektronik,Küçük Ev Aletleri,230,200,63,9,30,2024-03-26,2024-03-28,Kredi Kartı,3,9
+375,Tost Makinesi,Tost Makinesi Modeli 3,Elektronik,Küçük Ev Aletleri,242,199,17,5,12,2024-03-16,2024-03-28,Nakit,3,9
+376,Su Isıtıcı,Su Isıtıcı Modeli 10,Elektronik,Küçük Ev Aletleri,449,376,56,55,0,2024-03-25,2024-03-30,Kredi Kartı,3,9
+377,Mikser,Mikser Modeli 5,Elektronik,Küçük Ev Aletleri,479,421,60,7,21,2024-03-14,2024-03-30,Nakit,3,9
+378,Airfryer,Airfryer Modeli 7,Elektronik,Küçük Ev Aletleri,84,25,97,60,17,2024-03-20,2024-03-26,Kredi Kartı,3,9
+379,Akıllı Saat,Akıllı Saat Modeli 7,Elektronik,Giyilebilir Teknoloji,421,322,71,55,9,2024-03-14,2024-03-30,Nakit,3,10
+380,Akıllı Bileklik,Akıllı Bileklik Modeli 4,Elektronik,Giyilebilir Teknoloji,204,151,60,56,3,2024-03-24,2024-03-30,Kredi Kartı,3,10
+381,Android Cep Telefon,Android Cep Telefon Modeli 9,Elektronik,Telefon,485,389,45,41,4,2024-03-18,2024-03-19,Nakit,3,11
+382,iOS Cep Telefon,iOS Cep Telefon Modeli 6,Elektronik,Telefon,402,312,89,48,3,2024-03-14,2024-03-17,Kredi Kartı,3,11
+383,Buzdolabı,Buzdolabı Modeli 6,Elektronik,Beyaz Eşya,311,301,11,3,1,2024-03-25,2024-03-29,Nakit,3,12
+384,Çamaşır Makinesi,Çamaşır Makinesi Modeli 5,Elektronik,Beyaz Eşya,318,263,92,56,30,2024-03-17,2024-03-24,Nakit,3,12
+385,Bulaşık Makinesi,Bulaşık Makinesi Modeli 1,Elektronik,Beyaz Eşya,117,31,38,26,6,2024-03-02,2024-03-14,Nakit,3,12
+386,Kurutma Makinesi,Kurutma Makinesi Modeli 9,Elektronik,Beyaz Eşya,91,25,87,42,31,2024-03-13,2024-03-31,Nakit,3,12
+387,Ankastre Set,Ankastre Set Modeli 5,Elektronik,Beyaz Eşya,128,91,43,41,2,2024-03-09,2024-03-14,Kredi Kartı,3,12
+388,Kombi,Kombi Modeli 5,Elektronik,Beyaz Eşya,493,411,17,13,4,2024-03-03,2024-03-07,Kredi Kartı,3,12
+389,Mikrodalga Fırın,Mikrodalga Fırın Modeli 6,Elektronik,Beyaz Eşya,470,424,52,47,5,2024-03-14,2024-03-29,Kredi Kartı,3,12
+390,Smart TV,Smart TV Modeli 4,Elektronik,Televizyon,165,75,15,4,2,2024-03-06,2024-03-13,Kredi Kartı,3,13
+391,Fotoğraf Makinesi,Fotoğraf Makinesi Modeli 6,Elektronik,Kamera,219,207,71,12,26,2024-03-23,2024-03-25,Kredi Kartı,3,14
+392,Aksiyon Kamera,Aksiyon Kamera Modeli 10,Elektronik,Kamera,215,164,73,53,10,2024-03-21,2024-03-24,Nakit,3,14
+393,Şipşak Fotoğraf Makinesi ,Şipşak Fotoğraf Makinesi  Modeli 3,Elektronik,Kamera,401,325,17,6,3,2024-03-18,2024-03-29,Kredi Kartı,3,14
+394,Telefon Kılıfı,Telefon Kılıfı Modeli 6,Elektronik,Aksesuarlar,264,174,93,58,10,2024-03-07,2024-03-13,Kredi Kartı,3,15
+395,Şarj Aleti,Şarj Aleti Modeli 9,Elektronik,Aksesuarlar,260,232,17,12,1,2024-03-13,2024-03-31,Kredi Kartı,3,15
+396,Powerbank,Powerbank Modeli 7,Elektronik,Aksesuarlar,152,132,91,34,29,2024-03-03,2024-03-21,Nakit,3,15
+397,Kulaklık,Kulaklık Modeli 2,Elektronik,Aksesuarlar,341,251,45,12,29,2024-03-20,2024-03-30,Nakit,3,15
+398,Hafıza Kartı,Hafıza Kartı Modeli 4,Elektronik,Aksesuarlar,256,200,85,44,30,2024-03-12,2024-03-27,Nakit,3,15
+399,Hoparlör,Hoparlör Modeli 9,Elektronik,Aksesuarlar,153,105,59,42,8,2024-03-07,2024-03-25,Nakit,3,15
+400,Projeksiyon Cihazı,Projeksiyon Cihazı Modeli 7,Elektronik,Aksesuarlar,230,143,44,36,7,2024-03-21,2024-03-31,Kredi Kartı,3,15
+401,Tv Kumandası,Tv Kumandası Modeli 5,Elektronik,Aksesuarlar,305,221,85,7,46,2024-03-22,2024-03-26,Kredi Kartı,3,15
+402,HDMI Kablo,HDMI Kablo Modeli 5,Elektronik,Aksesuarlar,237,221,15,14,1,2024-03-10,2024-03-28,Kredi Kartı,3,15
+403,Kablo & Adaptör,Kablo & Adaptör Modeli 6,Elektronik,Aksesuarlar,496,468,45,8,15,2024-03-08,2024-03-21,Nakit,3,15
+404,Tencere,Tencere Modeli 3,Ev,Sofra & Mutfak,190,102,53,43,8,2024-03-29,2024-03-30,Nakit,4,16
+405,Yemek Takımı,Yemek Takımı Modeli 8,Ev,Sofra & Mutfak,148,62,37,11,14,2024-03-05,2024-03-06,Kredi Kartı,4,16
+406,Kahvaltı Takımı,Kahvaltı Takımı Modeli 10,Ev,Sofra & Mutfak,115,25,97,55,15,2024-03-25,2024-03-31,Nakit,4,16
+407,Çatal Bıçak Seti,Çatal Bıçak Seti Modeli 2,Ev,Sofra & Mutfak,155,118,95,54,28,2024-03-01,2024-03-07,Kredi Kartı,4,16
+408,Fincan Takımı,Fincan Takımı Modeli 6,Ev,Sofra & Mutfak,64,25,13,9,3,2024-03-01,2024-03-14,Kredi Kartı,4,16
+409,Bardak,Bardak Modeli 6,Ev,Sofra & Mutfak,264,179,97,65,26,2024-03-10,2024-03-14,Nakit,4,16
+410,Hurç,Hurç Modeli 10,Ev,Ev Gereçleri,429,411,27,9,1,2024-03-03,2024-03-16,Kredi Kartı,4,17
+411,Askı,Askı Modeli 5,Ev,Ev Gereçleri,151,71,29,15,2,2024-03-21,2024-03-22,Nakit,4,17
+412,Çamaşır Sepeti,Çamaşır Sepeti Modeli 7,Ev,Ev Gereçleri,322,296,65,65,0,2024-03-20,2024-03-30,Kredi Kartı,4,17
+413,Ütü Masası,Ütü Masası Modeli 10,Ev,Ev Gereçleri,68,25,43,20,15,2024-03-23,2024-03-28,Kredi Kartı,4,17
+414,Nevresim Takımı,Nevresim Takımı Modeli 8,Ev,Ev Tekstili,275,192,86,27,9,2024-03-04,2024-03-30,Nakit,4,18
+415,Yastık & Yorgan,Yastık & Yorgan Modeli 9,Ev,Ev Tekstili,280,224,11,8,0,2024-03-08,2024-03-11,Kredi Kartı,4,18
+416,Koltuk  Örtüsü,Koltuk  Örtüsü Modeli 10,Ev,Ev Tekstili,498,438,58,18,23,2024-03-14,2024-03-17,Nakit,4,18
+417,Perde,Perde Modeli 5,Ev,Ev Tekstili,85,25,36,31,5,2024-03-02,2024-03-22,Nakit,4,18
+418,Paspas,Paspas Modeli 6,Ev,Ev Tekstili,127,35,87,33,11,2024-03-08,2024-03-19,Nakit,4,18
+419,Halı,Halı Modeli 8,Ev,Ev Tekstili,63,25,48,42,2,2024-03-15,2024-03-21,Kredi Kartı,4,18
+420,Havlu & Bornoz,Havlu & Bornoz Modeli 5,Ev,Ev Tekstili,346,332,98,82,2,2024-03-12,2024-03-19,Kredi Kartı,4,18
+421,Ayna,Ayna Modeli 8,Ev,Ev Dekorasyon,421,371,43,10,16,2024-03-22,2024-03-24,Kredi Kartı,4,19
+422,Tablo,Tablo Modeli 9,Ev,Ev Dekorasyon,123,89,80,0,34,2024-03-11,2024-03-14,Nakit,4,19
+423,Vazo,Vazo Modeli 7,Ev,Ev Dekorasyon,380,322,67,12,22,2024-03-15,2024-03-18,Kredi Kartı,4,19
+424,Duvar Saati,Duvar Saati Modeli 9,Ev,Ev Dekorasyon,491,449,81,44,16,2024-03-10,2024-03-30,Nakit,4,19
+425,Avize,Avize Modeli 3,Ev,Ev Aydınlatma,358,277,72,67,4,2024-03-23,2024-03-26,Kredi Kartı,4,20
+426,Lambader,Lambader Modeli 7,Ev,Ev Dekorasyon,270,178,89,35,19,2024-03-13,2024-03-30,Nakit,4,19
+427,Yatak Odası Takımı,Yatak Odası Takımı Modeli 1,Ev,Mobilya,153,132,92,48,6,2024-03-27,2024-03-30,Kredi Kartı,4,21
+428,Oturma Odası Takımı,Oturma Odası Takımı Modeli 6,Ev,Mobilya,335,263,36,28,3,2024-03-05,2024-03-20,Kredi Kartı,4,21
+429,Bahçe Mobilyası,Bahçe Mobilyası Modeli 4,Ev,Mobilya,228,213,56,27,29,2024-03-16,2024-03-20,Nakit,4,21
+430,Yemek Odası Takımı,Yemek Odası Takımı Modeli 3,Ev,Mobilya,118,39,29,6,21,2024-03-10,2024-03-12,Kredi Kartı,4,21
+431,Çocuk Odası Takımı,Çocuk Odası Takımı Modeli 3,Ev,Mobilya,240,175,22,19,2,2024-03-30,2024-03-31,Kredi Kartı,4,21
+432,Genç Odası Takımı,Genç Odası Takımı Modeli 4,Ev,Mobilya,179,119,34,33,0,2024-03-12,2024-03-16,Kredi Kartı,4,21
+433,Dolap,Dolap Modeli 9,Ev,Mobilya,181,86,70,0,3,2024-03-03,2024-03-15,Nakit,4,21
+434,Sandalye,Sandalye Modeli 10,Ev,Mobilya,74,40,24,24,0,2024-03-05,2024-03-26,Kredi Kartı,4,21
+435,Zigon,Zigon Modeli 5,Ev,Mobilya,289,207,20,16,0,2024-03-07,2024-03-08,Kredi Kartı,4,21
+436,Mont,Mont Modeli 4,Giyim,Dış Giyim,418,326,63,5,21,2024-03-26,2024-03-30,Kredi Kartı,1,1
+437,Spor Ayakkabı,Spor Ayakkabı Modeli 7,Giyim,Ayakkabı,437,362,33,24,0,2024-03-12,2024-03-27,Nakit,1,2
+438,Topuklu Ayakkabı,Topuklu Ayakkabı Modeli 6,Giyim,Ayakkabı,146,136,66,50,13,2024-03-03,2024-03-28,Kredi Kartı,1,2
+439,Günlük Ayakkabı,Günlük Ayakkabı Modeli 6,Giyim,Ayakkabı,113,82,65,48,11,2024-03-03,2024-03-20,Nakit,1,2
+440,Bot,Bot Modeli 8,Giyim,Ayakkabı,427,340,49,39,1,2024-03-20,2024-03-23,Nakit,1,2
+441,Çizme,Çizme Modeli 6,Giyim,Ayakkabı,478,413,14,8,3,2024-03-25,2024-03-29,Nakit,1,2
+442,Terlik,Terlik Modeli 2,Giyim,Ayakkabı,57,32,51,7,23,2024-03-10,2024-03-20,Nakit,1,2
+443,Çocuk Montu,Çocuk Montu Modeli 4,Giyim,Çocuk Giyim,142,83,77,37,35,2024-03-25,2024-03-28,Nakit,1,3
+444,Tişört,Tişört Modeli 2,Giyim,Üst Giyim,119,41,48,48,0,2024-03-02,2024-03-22,Kredi Kartı,1,4
+445,Gömlek,Gömlek Modeli 5,Giyim,Üst Giyim,307,270,32,9,21,2024-03-12,2024-03-31,Kredi Kartı,1,4
+446,Pantalon,Pantalon Modeli 8,Giyim,Alt Giyim,478,390,53,52,0,2024-03-27,2024-03-29,Nakit,1,5
+447,Etek,Etek Modeli 1,Giyim,Alt Giyim,222,201,51,35,11,2024-03-05,2024-03-29,Kredi Kartı,1,5
+448,Kazak,Kazak Modeli 3,Giyim,Üst Giyim,435,339,38,23,11,2024-03-24,2024-03-27,Kredi Kartı,1,4
+449,Trençkot,Trençkot Modeli 9,Giyim,Dış Giyim,57,25,31,4,1,2024-03-30,2024-03-31,Nakit,1,1
+450,Hırka,Hırka Modeli 10,Giyim,Üst Giyim,171,98,49,16,23,2024-03-10,2024-03-24,Nakit,1,4
+451,Kol Çantası,Kol Çantası Modeli 10,Giyim,Aksesuar,95,25,44,19,3,2024-03-24,2024-03-26,Kredi Kartı,1,6
+452,Saat,Saat Modeli 10,Giyim,Aksesuar,59,25,16,1,9,2024-03-02,2024-03-04,Kredi Kartı,1,6
+453,Cüzdan,Cüzdan Modeli 8,Giyim,Aksesuar,58,25,37,9,24,2024-03-23,2024-03-27,Nakit,1,6
+454,Kolye,Kolye Modeli 5,Giyim,Aksesuar,266,249,20,15,2,2024-03-11,2024-03-19,Kredi Kartı,1,6
+455,Yüzük,Yüzük Modeli 2,Giyim,Aksesuar,208,169,16,5,6,2024-03-07,2024-03-19,Nakit,1,6
+456,Bileklik,Bileklik Modeli 7,Giyim,Aksesuar,179,128,18,3,9,2024-03-04,2024-03-06,Kredi Kartı,1,6
+457,Küpe,Küpe Modeli 10,Giyim,Aksesuar,174,92,28,8,0,2024-03-18,2024-03-23,Nakit,1,6
+458,Atkı,Atkı Modeli 7,Giyim,Aksesuar,68,46,42,34,2,2024-03-14,2024-03-15,Nakit,1,6
+459,Bere,Bere Modeli 2,Giyim,Aksesuar,311,214,25,19,1,2024-03-28,2024-03-30,Nakit,1,6
+460,Eldiven,Eldiven Modeli 8,Giyim,Aksesuar,227,142,92,14,75,2024-03-04,2024-03-20,Nakit,1,6
+461,Kemer,Kemer Modeli 9,Giyim,Aksesuar,395,303,51,6,23,2024-03-18,2024-03-19,Kredi Kartı,1,6
+462,Güneş Gözlüğü,Güneş Gözlüğü Modeli 10,Giyim,Aksesuar,264,179,82,26,47,2024-03-02,2024-03-21,Kredi Kartı,1,6
+463,Maskara,Maskara Modeli 6,Kozmetik,Makyaj,75,40,75,73,0,2024-03-22,2024-03-28,Nakit,2,7
+464,Ruj,Ruj Modeli 10,Kozmetik,Makyaj,129,83,11,2,3,2024-03-27,2024-03-28,Kredi Kartı,2,7
+465,Allık,Allık Modeli 8,Kozmetik,Makyaj,302,237,54,17,1,2024-03-11,2024-03-18,Nakit,2,7
+466,Fondöten,Fondöten Modeli 3,Kozmetik,Makyaj,195,174,51,16,5,2024-03-05,2024-03-24,Kredi Kartı,2,7
+467,Oje,Oje Modeli 7,Kozmetik,Makyaj,177,95,82,46,29,2024-03-24,2024-03-27,Nakit,2,7
+468,Göz Kalemi,Göz Kalemi Modeli 9,Kozmetik,Makyaj,328,311,81,51,4,2024-03-21,2024-03-23,Kredi Kartı,2,7
+469,Şampuan,Şampuan Modeli 2,Kozmetik,Kişisel Bakım,230,186,83,4,51,2024-03-25,2024-03-27,Kredi Kartı,2,8
+470,Saç Kremi,Saç Kremi Modeli 9,Kozmetik,Kişisel Bakım,99,25,32,16,9,2024-03-05,2024-03-21,Nakit,2,8
+471,Diş Fırçası,Diş Fırçası Modeli 6,Kozmetik,Kişisel Bakım,469,391,64,56,0,2024-03-25,2024-03-27,Nakit,2,8
+472,Diş Macunu,Diş Macunu Modeli 6,Kozmetik,Kişisel Bakım,326,311,33,17,14,2024-03-02,2024-03-13,Nakit,2,8
+473,Diş İpi,Diş İpi Modeli 2,Kozmetik,Kişisel Bakım,438,381,24,23,1,2024-03-11,2024-03-13,Nakit,2,8
+474,Deodorant,Deodorant Modeli 1,Kozmetik,Kişisel Bakım,286,247,81,37,22,2024-03-30,2024-03-31,Kredi Kartı,2,8
+475,Parfüm,Parfüm Modeli 6,Kozmetik,Kişisel Bakım,472,384,38,1,5,2024-03-09,2024-03-27,Kredi Kartı,2,8
+476,Nemlendirici Krem,Nemlendirici Krem Modeli 1,Kozmetik,Kişisel Bakım,250,151,87,73,3,2024-03-01,2024-03-25,Nakit,2,8
+477,Duş Jeli,Duş Jeli Modeli 3,Kozmetik,Kişisel Bakım,239,193,17,7,4,2024-03-13,2024-03-24,Nakit,2,8
+478,Kese,Kese Modeli 6,Kozmetik,Kişisel Bakım,195,136,26,25,0,2024-03-29,2024-03-30,Nakit,2,8
+479,Güneş Kremi,Güneş Kremi Modeli 6,Kozmetik,Kişisel Bakım,74,25,98,23,73,2024-03-07,2024-03-29,Kredi Kartı,2,8
+480,Tarak,Tarak Modeli 10,Kozmetik,Kişisel Bakım,202,126,30,7,11,2024-03-26,2024-03-29,Kredi Kartı,2,8
+481,Süpürge,Süpürge Modeli 5,Elektronik,Küçük Ev Aletleri,208,133,49,27,14,2024-03-29,2024-03-30,Nakit,3,9
+482,Ütü,Ütü Modeli 10,Elektronik,Küçük Ev Aletleri,263,253,80,50,6,2024-03-29,2024-03-31,Nakit,3,9
+483,Kahve Makinesi,Kahve Makinesi Modeli 8,Elektronik,Küçük Ev Aletleri,65,43,21,18,2,2024-03-14,2024-03-25,Kredi Kartı,3,9
+484,Çay Makinesi,Çay Makinesi Modeli 4,Elektronik,Küçük Ev Aletleri,208,183,70,14,43,2024-03-17,2024-03-30,Nakit,3,9
+485,Tost Makinesi,Tost Makinesi Modeli 5,Elektronik,Küçük Ev Aletleri,423,378,13,3,5,2024-03-26,2024-03-31,Kredi Kartı,3,9
+486,Su Isıtıcı,Su Isıtıcı Modeli 1,Elektronik,Küçük Ev Aletleri,106,53,69,59,4,2024-03-13,2024-03-29,Nakit,3,9
+487,Mikser,Mikser Modeli 10,Elektronik,Küçük Ev Aletleri,393,310,69,27,38,2024-03-18,2024-03-31,Nakit,3,9
+488,Airfryer,Airfryer Modeli 5,Elektronik,Küçük Ev Aletleri,164,113,31,30,1,2024-03-05,2024-03-26,Kredi Kartı,3,9
+489,Akıllı Saat,Akıllı Saat Modeli 7,Elektronik,Giyilebilir Teknoloji,261,243,79,62,11,2024-03-30,2024-03-31,Nakit,3,10
+490,Akıllı Bileklik,Akıllı Bileklik Modeli 6,Elektronik,Giyilebilir Teknoloji,206,109,75,69,4,2024-03-04,2024-03-17,Nakit,3,10
+491,Android Cep Telefon,Android Cep Telefon Modeli 7,Elektronik,Telefon,170,83,45,30,3,2024-03-21,2024-03-24,Kredi Kartı,3,11
+492,iOS Cep Telefon,iOS Cep Telefon Modeli 1,Elektronik,Telefon,151,65,49,30,0,2024-03-30,2024-03-31,Nakit,3,11
+493,Buzdolabı,Buzdolabı Modeli 5,Elektronik,Beyaz Eşya,63,25,48,12,14,2024-03-24,2024-03-26,Kredi Kartı,3,12
+494,Çamaşır Makinesi,Çamaşır Makinesi Modeli 10,Elektronik,Beyaz Eşya,352,267,87,66,20,2024-03-18,2024-03-29,Nakit,3,12
+495,Bulaşık Makinesi,Bulaşık Makinesi Modeli 5,Elektronik,Beyaz Eşya,457,443,44,23,18,2024-03-08,2024-03-23,Kredi Kartı,3,12
+496,Kurutma Makinesi,Kurutma Makinesi Modeli 10,Elektronik,Beyaz Eşya,391,300,52,40,0,2024-03-25,2024-03-26,Kredi Kartı,3,12
+497,Derin Dondurucu,Derin Dondurucu Modeli 2,Elektronik,Beyaz Eşya,178,155,46,22,20,2024-03-08,2024-03-19,Nakit,3,12
+498,Ankastre Set,Ankastre Set Modeli 4,Elektronik,Beyaz Eşya,308,258,97,55,20,2024-03-28,2024-03-31,Kredi Kartı,3,12
+499,Mikrodalga Fırın,Mikrodalga Fırın Modeli 5,Elektronik,Beyaz Eşya,298,207,36,4,14,2024-03-10,2024-03-17,Nakit,3,12
+500,Smart TV,Smart TV Modeli 7,Elektronik,Televizyon,336,236,18,4,1,2024-03-08,2024-03-21,Kredi Kartı,3,13
+501,Fotoğraf Makinesi,Fotoğraf Makinesi Modeli 3,Elektronik,Kamera,351,308,53,32,19,2024-03-11,2024-03-14,Kredi Kartı,3,14
+502,Aksiyon Kamera,Aksiyon Kamera Modeli 6,Elektronik,Kamera,75,52,24,12,11,2024-03-26,2024-03-29,Nakit,3,14
+503,Şipşak Fotoğraf Makinesi ,Şipşak Fotoğraf Makinesi  Modeli 8,Elektronik,Kamera,341,306,73,63,6,2024-03-08,2024-03-28,Kredi Kartı,3,14
+504,Telefon Kılıfı,Telefon Kılıfı Modeli 7,Elektronik,Aksesuarlar,396,308,46,16,0,2024-03-09,2024-03-26,Kredi Kartı,3,15
+505,Şarj Aleti,Şarj Aleti Modeli 5,Elektronik,Aksesuarlar,228,190,33,10,4,2024-03-05,2024-03-20,Nakit,3,15
+506,Powerbank,Powerbank Modeli 3,Elektronik,Aksesuarlar,150,130,26,23,3,2024-03-21,2024-03-28,Kredi Kartı,3,15
+507,Kulaklık,Kulaklık Modeli 2,Elektronik,Aksesuarlar,166,116,64,49,2,2024-03-14,2024-03-24,Nakit,3,15
+508,Hafıza Kartı,Hafıza Kartı Modeli 5,Elektronik,Aksesuarlar,409,398,89,64,17,2024-03-15,2024-03-20,Kredi Kartı,3,15
+509,Hoparlör,Hoparlör Modeli 2,Elektronik,Aksesuarlar,198,165,67,51,0,2024-03-27,2024-03-28,Nakit,3,15
+510,Projeksiyon Cihazı,Projeksiyon Cihazı Modeli 4,Elektronik,Aksesuarlar,457,439,22,10,10,2024-03-16,2024-03-17,Nakit,3,15
+511,Tv Kumandası,Tv Kumandası Modeli 9,Elektronik,Aksesuarlar,58,27,30,23,6,2024-03-01,2024-03-26,Nakit,3,15
+512,HDMI Kablo,HDMI Kablo Modeli 7,Elektronik,Aksesuarlar,163,86,75,12,25,2024-03-01,2024-03-19,Nakit,3,15
+513,Kablo & Adaptör,Kablo & Adaptör Modeli 8,Elektronik,Aksesuarlar,167,128,64,36,21,2024-03-22,2024-03-26,Nakit,3,15
+514,Tencere,Tencere Modeli 10,Ev,Sofra & Mutfak,56,25,22,12,0,2024-03-13,2024-03-21,Nakit,4,16
+515,Yemek Takımı,Yemek Takımı Modeli 3,Ev,Sofra & Mutfak,163,117,65,46,8,2024-03-27,2024-03-30,Kredi Kartı,4,16
+516,Kahvaltı Takımı,Kahvaltı Takımı Modeli 6,Ev,Sofra & Mutfak,320,287,86,63,19,2024-03-01,2024-03-13,Kredi Kartı,4,16
+517,Çatal Bıçak Seti,Çatal Bıçak Seti Modeli 4,Ev,Sofra & Mutfak,277,220,29,4,0,2024-03-27,2024-03-29,Nakit,4,16
+518,Fincan Takımı,Fincan Takımı Modeli 1,Ev,Sofra & Mutfak,229,161,19,1,15,2024-03-24,2024-03-29,Nakit,4,16
+519,Bardak,Bardak Modeli 1,Ev,Sofra & Mutfak,145,96,91,24,53,2024-03-05,2024-03-29,Nakit,4,16
+520,Hurç,Hurç Modeli 6,Ev,Ev Gereçleri,449,355,14,14,0,2024-03-26,2024-03-29,Kredi Kartı,4,17
+521,Askı,Askı Modeli 9,Ev,Ev Gereçleri,280,240,84,13,17,2024-03-11,2024-03-31,Kredi Kartı,4,17
+522,Çamaşır Sepeti,Çamaşır Sepeti Modeli 10,Ev,Ev Gereçleri,258,202,86,58,18,2024-03-09,2024-03-17,Kredi Kartı,4,17
+523,Ütü Masası,Ütü Masası Modeli 9,Ev,Ev Gereçleri,484,454,22,3,11,2024-03-23,2024-03-28,Nakit,4,17
+524,Nevresim Takımı,Nevresim Takımı Modeli 6,Ev,Ev Tekstili,279,260,32,2,13,2024-03-07,2024-03-29,Nakit,4,18
+525,Yastık & Yorgan,Yastık & Yorgan Modeli 9,Ev,Ev Tekstili,458,366,20,8,12,2024-03-01,2024-03-28,Kredi Kartı,4,18
+526,Koltuk  Örtüsü,Koltuk  Örtüsü Modeli 10,Ev,Ev Tekstili,169,137,63,10,14,2024-03-25,2024-03-30,Nakit,4,18
+527,Paspas,Paspas Modeli 7,Ev,Ev Tekstili,391,324,89,74,1,2024-03-24,2024-03-30,Kredi Kartı,4,18
+528,Halı,Halı Modeli 6,Ev,Ev Tekstili,186,100,13,7,4,2024-03-11,2024-03-14,Kredi Kartı,4,18
+529,Ayna,Ayna Modeli 7,Ev,Ev Dekorasyon,408,386,43,40,2,2024-03-16,2024-03-21,Kredi Kartı,4,19
+530,Tablo,Tablo Modeli 1,Ev,Ev Dekorasyon,378,333,69,32,20,2024-03-18,2024-03-22,Kredi Kartı,4,19
+531,Vazo,Vazo Modeli 10,Ev,Ev Dekorasyon,86,25,39,30,6,2024-03-24,2024-03-30,Kredi Kartı,4,19
+532,Duvar Saati,Duvar Saati Modeli 4,Ev,Ev Dekorasyon,210,116,40,16,9,2024-03-13,2024-03-20,Nakit,4,19
+533,Avize,Avize Modeli 9,Ev,Ev Aydınlatma,364,343,95,41,52,2024-03-02,2024-03-24,Kredi Kartı,4,20
+534,Yatak Odası Takımı,Yatak Odası Takımı Modeli 1,Ev,Mobilya,479,429,66,52,10,2024-03-15,2024-03-25,Kredi Kartı,4,21
+535,Oturma Odası Takımı,Oturma Odası Takımı Modeli 10,Ev,Mobilya,143,118,53,11,19,2024-03-02,2024-03-16,Kredi Kartı,4,21
+536,Bahçe Mobilyası,Bahçe Mobilyası Modeli 7,Ev,Mobilya,61,35,37,11,13,2024-03-30,2024-03-31,Nakit,4,21
+537,Yemek Odası Takımı,Yemek Odası Takımı Modeli 6,Ev,Mobilya,71,54,26,21,4,2024-03-19,2024-03-31,Kredi Kartı,4,21
+538,Çocuk Odası Takımı,Çocuk Odası Takımı Modeli 8,Ev,Mobilya,461,442,52,27,10,2024-03-24,2024-03-27,Nakit,4,21
+539,Genç Odası Takımı,Genç Odası Takımı Modeli 4,Ev,Mobilya,142,102,19,19,0,2024-03-11,2024-03-28,Kredi Kartı,4,21
+540,Koltuk Takımı,Koltuk Takımı Modeli 3,Ev,Mobilya,220,132,98,56,13,2024-03-01,2024-03-18,Kredi Kartı,4,21
+541,Dolap,Dolap Modeli 9,Ev,Mobilya,221,205,20,6,13,2024-03-24,2024-03-30,Kredi Kartı,4,21
+542,Gardırop,Gardırop Modeli 4,Ev,Mobilya,87,25,72,12,12,2024-03-19,2024-03-30,Nakit,4,21
+543,Sandalye,Sandalye Modeli 3,Ev,Mobilya,219,160,40,10,8,2024-03-23,2024-03-26,Nakit,4,21
+544,Zigon,Zigon Modeli 1,Ev,Mobilya,389,357,73,48,4,2024-03-15,2024-03-16,Kredi Kartı,4,21
+545,Mont,Mont Modeli 5,Giyim,Dış Giyim,489,414,97,7,9,2024-03-30,2024-03-31,Kredi Kartı,1,1
+546,Spor Ayakkabı,Spor Ayakkabı Modeli 2,Giyim,Ayakkabı,462,435,80,47,12,2024-03-21,2024-03-29,Nakit,1,2
+547,Topuklu Ayakkabı,Topuklu Ayakkabı Modeli 1,Giyim,Ayakkabı,95,81,52,28,15,2024-03-13,2024-03-20,Kredi Kartı,1,2
+548,Bot,Bot Modeli 5,Giyim,Ayakkabı,285,248,84,17,16,2024-03-09,2024-03-26,Kredi Kartı,1,2
+549,Çizme,Çizme Modeli 10,Giyim,Ayakkabı,265,231,72,61,7,2024-03-04,2024-03-27,Nakit,1,2
+550,Terlik,Terlik Modeli 3,Giyim,Ayakkabı,74,60,54,22,9,2024-03-22,2024-03-29,Kredi Kartı,1,2
+551,Tişört,Tişört Modeli 8,Giyim,Üst Giyim,427,330,40,13,2,2024-03-15,2024-03-31,Nakit,1,4
+552,Gömlek,Gömlek Modeli 5,Giyim,Üst Giyim,480,454,14,3,11,2024-03-10,2024-03-23,Kredi Kartı,1,4
+553,Pantalon,Pantalon Modeli 9,Giyim,Alt Giyim,404,387,48,16,6,2024-03-30,2024-03-31,Kredi Kartı,1,5
+554,Kazak,Kazak Modeli 8,Giyim,Üst Giyim,305,270,54,7,29,2024-03-29,2024-03-31,Nakit,1,4
+555,Trençkot,Trençkot Modeli 9,Giyim,Dış Giyim,298,265,91,90,1,2024-03-25,2024-03-27,Nakit,1,1
+556,Hırka,Hırka Modeli 9,Giyim,Üst Giyim,155,141,92,19,42,2024-03-21,2024-03-22,Nakit,1,4
+557,Kol Çantası,Kol Çantası Modeli 10,Giyim,Aksesuar,463,420,35,22,7,2024-03-03,2024-03-27,Kredi Kartı,1,6
+558,Saat,Saat Modeli 7,Giyim,Aksesuar,272,179,35,9,20,2024-03-16,2024-03-24,Nakit,1,6
+559,Cüzdan,Cüzdan Modeli 5,Giyim,Aksesuar,494,398,26,16,6,2024-03-04,2024-03-27,Kredi Kartı,1,6
+560,Kolye,Kolye Modeli 5,Giyim,Aksesuar,489,406,78,26,28,2024-03-15,2024-03-21,Nakit,1,6
+561,Bileklik,Bileklik Modeli 9,Giyim,Aksesuar,488,439,45,22,8,2024-03-16,2024-03-18,Kredi Kartı,1,6
+562,Küpe,Küpe Modeli 7,Giyim,Aksesuar,74,43,14,6,4,2024-03-26,2024-03-28,Nakit,1,6
+563,Atkı,Atkı Modeli 6,Giyim,Aksesuar,454,442,93,45,35,2024-03-18,2024-03-19,Kredi Kartı,1,6
+564,Bere,Bere Modeli 6,Giyim,Aksesuar,329,248,59,59,0,2024-03-14,2024-03-26,Kredi Kartı,1,6
+565,Eldiven,Eldiven Modeli 7,Giyim,Aksesuar,211,168,85,78,5,2024-03-04,2024-03-18,Nakit,1,6
+566,Kemer,Kemer Modeli 4,Giyim,Aksesuar,324,274,84,4,4,2024-03-14,2024-03-25,Nakit,1,6
+567,Güneş Gözlüğü,Güneş Gözlüğü Modeli 10,Giyim,Aksesuar,349,250,19,18,1,2024-03-21,2024-03-30,Nakit,1,6
+568,Maskara,Maskara Modeli 3,Kozmetik,Makyaj,267,235,80,37,29,2024-03-25,2024-03-30,Nakit,2,7
+569,Ruj,Ruj Modeli 8,Kozmetik,Makyaj,307,211,40,16,11,2024-03-24,2024-03-25,Kredi Kartı,2,7
+570,Allık,Allık Modeli 7,Kozmetik,Makyaj,147,134,45,0,39,2024-03-22,2024-03-29,Kredi Kartı,2,7
+571,Fondöten,Fondöten Modeli 6,Kozmetik,Makyaj,368,295,22,1,13,2024-03-04,2024-03-27,Nakit,2,7
+572,Oje,Oje Modeli 7,Kozmetik,Makyaj,260,233,47,42,5,2024-03-12,2024-03-15,Nakit,2,7
+573,Göz Kalemi,Göz Kalemi Modeli 9,Kozmetik,Makyaj,360,340,74,48,24,2024-03-14,2024-03-30,Nakit,2,7
+574,Şampuan,Şampuan Modeli 8,Kozmetik,Kişisel Bakım,420,374,41,37,2,2024-03-10,2024-03-15,Kredi Kartı,2,8
+575,Diş Fırçası,Diş Fırçası Modeli 6,Kozmetik,Kişisel Bakım,380,332,60,7,53,2024-03-13,2024-03-19,Nakit,2,8
+576,Diş Macunu,Diş Macunu Modeli 10,Kozmetik,Kişisel Bakım,473,380,30,13,7,2024-03-24,2024-03-29,Kredi Kartı,2,8
+577,Diş İpi,Diş İpi Modeli 5,Kozmetik,Kişisel Bakım,326,228,50,32,12,2024-03-29,2024-03-31,Nakit,2,8
+578,Deodorant,Deodorant Modeli 8,Kozmetik,Kişisel Bakım,207,159,64,40,10,2024-03-18,2024-03-19,Nakit,2,8
+579,Parfüm,Parfüm Modeli 8,Kozmetik,Kişisel Bakım,468,435,55,26,7,2024-03-08,2024-03-11,Nakit,2,8
+580,Nemlendirici Krem,Nemlendirici Krem Modeli 5,Kozmetik,Kişisel Bakım,60,25,56,51,0,2024-03-30,2024-03-31,Kredi Kartı,2,8
+581,Duş Jeli,Duş Jeli Modeli 5,Kozmetik,Kişisel Bakım,487,459,65,33,28,2024-03-07,2024-03-28,Nakit,2,8
+582,Kese,Kese Modeli 3,Kozmetik,Kişisel Bakım,235,158,92,47,19,2024-03-12,2024-03-27,Nakit,2,8
+583,Güneş Kremi,Güneş Kremi Modeli 8,Kozmetik,Kişisel Bakım,357,303,99,75,14,2024-03-15,2024-03-25,Kredi Kartı,2,8
+584,Tarak,Tarak Modeli 10,Kozmetik,Kişisel Bakım,147,125,11,0,10,2024-03-17,2024-03-18,Nakit,2,8
+585,Süpürge,Süpürge Modeli 9,Elektronik,Küçük Ev Aletleri,448,404,66,54,1,2024-03-08,2024-03-11,Nakit,3,9
+586,Robot Süpürge,Robot Süpürge Modeli 7,Elektronik,Küçük Ev Aletleri,84,29,75,61,0,2024-03-28,2024-03-30,Kredi Kartı,3,9
+587,Ütü,Ütü Modeli 9,Elektronik,Küçük Ev Aletleri,169,76,76,39,10,2024-03-24,2024-03-25,Kredi Kartı,3,9
+588,Kahve Makinesi,Kahve Makinesi Modeli 8,Elektronik,Küçük Ev Aletleri,119,86,30,9,21,2024-03-28,2024-03-31,Nakit,3,9
+589,Çay Makinesi,Çay Makinesi Modeli 10,Elektronik,Küçük Ev Aletleri,447,405,24,9,3,2024-03-22,2024-03-27,Nakit,3,9
+590,Blender,Blender Modeli 10,Elektronik,Küçük Ev Aletleri,462,442,36,24,9,2024-03-11,2024-03-26,Nakit,3,9
+591,Tost Makinesi,Tost Makinesi Modeli 9,Elektronik,Küçük Ev Aletleri,126,63,52,37,12,2024-03-16,2024-03-19,Nakit,3,9
+592,Su Isıtıcı,Su Isıtıcı Modeli 10,Elektronik,Küçük Ev Aletleri,341,280,11,2,2,2024-03-26,2024-03-27,Nakit,3,9
+593,Mikser,Mikser Modeli 9,Elektronik,Küçük Ev Aletleri,283,249,96,25,27,2024-03-28,2024-03-29,Nakit,3,9
+594,Airfryer,Airfryer Modeli 10,Elektronik,Küçük Ev Aletleri,305,223,87,47,9,2024-03-20,2024-03-26,Kredi Kartı,3,9
+595,Akıllı Saat,Akıllı Saat Modeli 10,Elektronik,Giyilebilir Teknoloji,130,82,16,3,3,2024-03-15,2024-03-26,Nakit,3,10
+596,Akıllı Bileklik,Akıllı Bileklik Modeli 2,Elektronik,Giyilebilir Teknoloji,287,202,65,52,8,2024-03-21,2024-03-24,Kredi Kartı,3,10
+597,Android Cep Telefon,Android Cep Telefon Modeli 7,Elektronik,Telefon,403,370,63,40,11,2024-03-25,2024-03-26,Nakit,3,11
+598,iOS Cep Telefon,iOS Cep Telefon Modeli 9,Elektronik,Telefon,440,348,81,17,9,2024-03-09,2024-03-14,Nakit,3,11
+599,Buzdolabı,Buzdolabı Modeli 4,Elektronik,Beyaz Eşya,405,332,42,7,19,2024-03-19,2024-03-23,Nakit,3,12
+600,Çamaşır Makinesi,Çamaşır Makinesi Modeli 9,Elektronik,Beyaz Eşya,109,85,42,23,8,2024-03-03,2024-03-27,Kredi Kartı,3,12
+601,Bulaşık Makinesi,Bulaşık Makinesi Modeli 6,Elektronik,Beyaz Eşya,278,234,52,20,28,2024-03-29,2024-03-31,Kredi Kartı,3,12
+602,Kurutma Makinesi,Kurutma Makinesi Modeli 3,Elektronik,Beyaz Eşya,96,52,85,80,2,2024-03-14,2024-03-28,Nakit,3,12
+603,Derin Dondurucu,Derin Dondurucu Modeli 1,Elektronik,Beyaz Eşya,460,439,39,25,14,2024-03-13,2024-03-22,Kredi Kartı,3,12
+604,Ankastre Set,Ankastre Set Modeli 7,Elektronik,Beyaz Eşya,184,103,93,38,27,2024-03-14,2024-03-25,Kredi Kartı,3,12
+605,Kombi,Kombi Modeli 4,Elektronik,Beyaz Eşya,377,299,31,27,4,2024-03-09,2024-03-15,Kredi Kartı,3,12
+606,Mikrodalga Fırın,Mikrodalga Fırın Modeli 6,Elektronik,Beyaz Eşya,180,170,74,30,23,2024-03-24,2024-03-31,Nakit,3,12
+607,Smart TV,Smart TV Modeli 8,Elektronik,Televizyon,456,364,81,45,33,2024-03-21,2024-03-26,Nakit,3,13
+608,Fotoğraf Makinesi,Fotoğraf Makinesi Modeli 6,Elektronik,Kamera,285,197,44,8,11,2024-03-26,2024-03-29,Nakit,3,14
+609,Aksiyon Kamera,Aksiyon Kamera Modeli 8,Elektronik,Kamera,90,62,76,54,21,2024-03-28,2024-03-31,Kredi Kartı,3,14
+610,Şipşak Fotoğraf Makinesi ,Şipşak Fotoğraf Makinesi  Modeli 7,Elektronik,Kamera,275,219,53,35,8,2024-03-24,2024-03-26,Kredi Kartı,3,14
+611,Telefon Kılıfı,Telefon Kılıfı Modeli 2,Elektronik,Aksesuarlar,264,168,50,9,34,2024-03-27,2024-03-31,Nakit,3,15
+612,Şarj Aleti,Şarj Aleti Modeli 7,Elektronik,Aksesuarlar,343,305,31,2,26,2024-03-20,2024-03-28,Kredi Kartı,3,15
+613,Powerbank,Powerbank Modeli 7,Elektronik,Aksesuarlar,230,183,100,61,21,2024-03-10,2024-03-24,Nakit,3,15
+614,Kulaklık,Kulaklık Modeli 10,Elektronik,Aksesuarlar,87,25,42,3,34,2024-03-30,2024-03-31,Nakit,3,15
