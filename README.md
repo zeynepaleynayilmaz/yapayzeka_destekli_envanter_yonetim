@@ -5,8 +5,8 @@ Node.js + TypeScript • Express.js • React • PostgreSQL • Prisma • Yere
 
 Bu proje; uçtan uca modern bir envanter, ürün yönetimi ve satış tahminleme platformu sunar. Backend Node.js & TypeScript ile Express.js üzerinde geliştirilmiş olup, frontend React ile oluşturulmuştur. PostgreSQL veritabanı Prisma ORM ile yönetilmiş; yerel LLM, görüntü işleme ve öngörüsel analiz modelleri ile zenginleştirilmiştir.
 
-### 🚀 Özellikler
-🔹 Backend (Node.js + TypeScript + Express.js)
+## 🚀 Özellikler
+### 🔹 Backend (Node.js + TypeScript + Express.js)
 
 RESTful API mimarisi
 
@@ -14,7 +14,7 @@ Modüler, ölçeklenebilir servis mimarisi
 
 Tip güvenli backend geliştirme
 
-🔹 Database (PostgreSQL + Prisma)
+### 🔹 Database (PostgreSQL + Prisma)
 
 Prisma ORM ile schema yönetimi
 
@@ -24,14 +24,14 @@ Performans odaklı SQL sorguları
 
 Güçlü veri bütünlüğü ve ilişkisel yapı
 
-🔹 Frontend (React)
+### 🔹 Frontend (React)
 
 Modern, hızlı ve komponent tabanlı kullanıcı arayüzü
 
 Dinamik ürün, stok ve satış ekranları
 
 ### 🧠 Yapay Zekâ ve Veri Bilimi Bileşenleri
-🔸 Derin Öğrenme ile Görüntü Sınıflandırma
+### 🔸 Derin Öğrenme ile Görüntü Sınıflandırma
 
 Ürün görselleri otomatik olarak analiz edilir
 
@@ -39,7 +39,7 @@ Image Classification modeli ile etiketleme yapılır
 
 Manuel kategori yönetimini ortadan kaldırır
 
-🔸 Predictive Analytics (Öngörüsel Analiz)
+### 🔸 Predictive Analytics (Öngörüsel Analiz)
 
 Stok yönetimi
 
@@ -49,7 +49,7 @@ Satış tahmini
 
 Envanter risk analizleri
 
-🔸 Yerel LLM Tabanlı Doğal Dil İşleme
+### 🔸 Yerel LLM Tabanlı Doğal Dil İşleme
 
 SQL bilmeden veritabanına sorgu yapma
 
@@ -59,7 +59,7 @@ Gerçek zamanlı yanıt üretme
 
 Çevrimdışı / yerel çalışma
 
-🔸 Denediğim Modeller
+### 🔸 Denediğim Modeller
 
 Mistral 
 
