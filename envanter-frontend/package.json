@@ -25,8 +25,6 @@
     "localforage": "^1.10.0",
     "luxon": "^3.5.0",
     "match-sorter": "^6.3.4",
-    "msnodesqlv8": "^4.2.1",
-    "oracledb": "^6.6.0",
     "papaparse": "^5.4.1",
     "react": "^18.3.1",
     "react-chartjs-2": "^5.2.0",
