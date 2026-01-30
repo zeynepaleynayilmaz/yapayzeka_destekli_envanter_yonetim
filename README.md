@@ -51,8 +51,6 @@ Envanter risk analizleri
 
 ### 🔸 Yerel LLM Tabanlı Doğal Dil İşleme
 
-SQL bilmeden veritabanına sorgu yapma
-
 Chatbot üzerinden doğal dilde envanter sorgulama
 
 Gerçek zamanlı yanıt üretme
